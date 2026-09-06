@@ -1,0 +1,6782 @@
+[
+  {
+    "id": "k1-001",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-1.1.a"
+    ],
+    "chapterId": "k1-ch1",
+    "type": "single",
+    "stem": "金融市场的构成要素通常不包括下列哪一项？",
+    "options": [
+      {
+        "id": "A",
+        "text": "交易主体"
+      },
+      {
+        "id": "B",
+        "text": "交易对象"
+      },
+      {
+        "id": "C",
+        "text": "实物仓库"
+      },
+      {
+        "id": "D",
+        "text": "交易价格"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": "金融市场构成要素主要包括交易主体、交易对象、交易价格和交易组织形式，实物仓库不属于金融市场构成要素。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-002",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-1.1.b"
+    ],
+    "chapterId": "k1-ch1",
+    "type": "single",
+    "stem": "按金融工具期限划分，金融市场可分为（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "一级市场和二级市场"
+      },
+      {
+        "id": "B",
+        "text": "货币市场和资本市场"
+      },
+      {
+        "id": "C",
+        "text": "股票市场和债券市场"
+      },
+      {
+        "id": "D",
+        "text": "场内市场和场外市场"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "按期限分为货币市场（短期）和资本市场（长期）；一级/二级是按交易阶段；场内/场外是按组织形式。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-003",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-1.1.b"
+    ],
+    "chapterId": "k1-ch1",
+    "type": "single",
+    "stem": "下列属于货币市场工具的是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "股票"
+      },
+      {
+        "id": "B",
+        "text": "公司债券"
+      },
+      {
+        "id": "C",
+        "text": "同业拆借"
+      },
+      {
+        "id": "D",
+        "text": "长期国债"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": "货币市场工具期限通常在一年以内，同业拆借、票据、短期国债等属货币市场；股票和长期债券属资本市场。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-004",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-1.1.c"
+    ],
+    "chapterId": "k1-ch1",
+    "type": "single",
+    "stem": "金融市场通过买卖双方竞价形成资产价格的功能称为（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "资源配置"
+      },
+      {
+        "id": "B",
+        "text": "价格发现"
+      },
+      {
+        "id": "C",
+        "text": "风险管理"
+      },
+      {
+        "id": "D",
+        "text": "流动性提供"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "价格发现是金融市场通过供求形成均衡价格的功能。",
+    "difficulty": 2
+  },
+  {
+    "id": "k1-005",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-1.2.a"
+    ],
+    "chapterId": "k1-ch1",
+    "type": "single",
+    "stem": "关于资产管理，下列说法正确的是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "资产管理人以自有资金投资并承担全部风险"
+      },
+      {
+        "id": "B",
+        "text": "资产管理本质是受托管理客户资产"
+      },
+      {
+        "id": "C",
+        "text": "资产管理不得收取任何费用"
+      },
+      {
+        "id": "D",
+        "text": "资产管理等同于银行存款"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "资产管理是管理人接受委托、按约定投资运作客户资产的金融服务，核心是受托管理。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-006",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-1.2.b"
+    ],
+    "chapterId": "k1-ch1",
+    "type": "single",
+    "stem": "近年来中国资产管理行业转型的重要方向是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "刚兑承诺扩大化"
+      },
+      {
+        "id": "B",
+        "text": "净值化管理"
+      },
+      {
+        "id": "C",
+        "text": "取消信息披露"
+      },
+      {
+        "id": "D",
+        "text": "取消托管制度"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "资管新规后行业向净值化、打破刚兑、规范运作转型。",
+    "difficulty": 2
+  },
+  {
+    "id": "k1-007",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-2.1.a"
+    ],
+    "chapterId": "k1-ch2",
+    "type": "single",
+    "stem": "证券投资基金的本质特征是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "利益共享、风险共担的集合投资方式"
+      },
+      {
+        "id": "B",
+        "text": "保证本金不受损失"
+      },
+      {
+        "id": "C",
+        "text": "由投资者自行买卖股票"
+      },
+      {
+        "id": "D",
+        "text": "仅投资于银行存款"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "基金是利益共享、风险共担的集合证券投资方式，不保证本金收益。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-008",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-2.1.a"
+    ],
+    "chapterId": "k1-ch2",
+    "type": "single",
+    "stem": "按运作方式划分，基金可分为（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "股票型和债券型"
+      },
+      {
+        "id": "B",
+        "text": "开放式和封闭式"
+      },
+      {
+        "id": "C",
+        "text": "公募和私募"
+      },
+      {
+        "id": "D",
+        "text": "主动型和被动型"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "按运作方式分为开放式基金和封闭式基金。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-009",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-2.1.b"
+    ],
+    "chapterId": "k1-ch2",
+    "type": "single",
+    "stem": "下列不属于证券投资基金特点的是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "组合投资、分散风险"
+      },
+      {
+        "id": "B",
+        "text": "利益共享、风险共担"
+      },
+      {
+        "id": "C",
+        "text": "独立托管、安全保障"
+      },
+      {
+        "id": "D",
+        "text": "保证收益、刚性兑付"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": "基金不保证收益，也不存在刚性兑付；其余均为基金特点。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-010",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-2.1.c"
+    ],
+    "chapterId": "k1-ch2",
+    "type": "single",
+    "stem": "关于基金与股票的比较，正确的是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "基金是直接投资工具，股票是间接投资工具"
+      },
+      {
+        "id": "B",
+        "text": "基金是间接投资工具，股票是直接投资工具"
+      },
+      {
+        "id": "C",
+        "text": "二者都不承担投资风险"
+      },
+      {
+        "id": "D",
+        "text": "基金可以退市，股票不可以"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "购买基金是间接投资证券市场；购买股票是直接成为公司股东。",
+    "difficulty": 2
+  },
+  {
+    "id": "k1-011",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-2.2.a"
+    ],
+    "chapterId": "k1-ch2",
+    "type": "single",
+    "stem": "在基金运作关系中，基金份额持有人是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "受托人"
+      },
+      {
+        "id": "B",
+        "text": "托管人"
+      },
+      {
+        "id": "C",
+        "text": "委托人与受益人"
+      },
+      {
+        "id": "D",
+        "text": "销售机构"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": "持有人是基金资产的所有者和受益人，也是委托人；管理人是受托人。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-012",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-2.2.b"
+    ],
+    "chapterId": "k1-ch2",
+    "type": "single",
+    "stem": "依法取得基金托管资格、负责保管基金资产的机构是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "基金管理人"
+      },
+      {
+        "id": "B",
+        "text": "基金托管人"
+      },
+      {
+        "id": "C",
+        "text": "基金销售机构"
+      },
+      {
+        "id": "D",
+        "text": "基金份额登记机构"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "基金托管人独立保管基金资产，并监督管理人投资运作。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-013",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-2.3.d"
+    ],
+    "chapterId": "k1-ch2",
+    "type": "single",
+    "stem": "我国公募基金的重要作用不包括（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "为中小投资者提供专业化投资服务"
+      },
+      {
+        "id": "B",
+        "text": "促进资本市场稳定发展"
+      },
+      {
+        "id": "C",
+        "text": "替代中央银行制定货币政策"
+      },
+      {
+        "id": "D",
+        "text": "优化金融资源配置"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": "公募基金不具有制定货币政策职能，那是中央银行职责。",
+    "difficulty": 2
+  },
+  {
+    "id": "k1-014",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-3.1.a"
+    ],
+    "chapterId": "k1-ch3",
+    "type": "single",
+    "stem": "基金行业法律法规体系中效力最高的通常是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "中国证监会部门规章"
+      },
+      {
+        "id": "B",
+        "text": "基金业协会自律规则"
+      },
+      {
+        "id": "C",
+        "text": "全国人大制定的法律"
+      },
+      {
+        "id": "D",
+        "text": "基金管理人内部制度"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": "法律效力最高，其次行政法规、部门规章、规范性文件、自律规则。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-015",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-3.1.b"
+    ],
+    "chapterId": "k1-ch3",
+    "type": "single",
+    "stem": "规范证券投资基金活动的基本法律是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "《商业银行法》"
+      },
+      {
+        "id": "B",
+        "text": "《证券投资基金法》"
+      },
+      {
+        "id": "C",
+        "text": "《信托公司管理办法》"
+      },
+      {
+        "id": "D",
+        "text": "《保险法》"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "《中华人民共和国证券投资基金法》是规范基金活动的基本法律。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-016",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-3.2.a"
+    ],
+    "chapterId": "k1-ch3",
+    "type": "single",
+    "stem": "基金监管的首要目标是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "提高基金管理人利润"
+      },
+      {
+        "id": "B",
+        "text": "保护投资者合法权益"
+      },
+      {
+        "id": "C",
+        "text": "扩大基金市场规模"
+      },
+      {
+        "id": "D",
+        "text": "降低银行存款利率"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "保护投资者合法权益是基金监管的首要目标。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-017",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-3.2.b"
+    ],
+    "chapterId": "k1-ch3",
+    "type": "single",
+    "stem": "对基金行业实行统一监督管理的机构是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "中国人民银行"
+      },
+      {
+        "id": "B",
+        "text": "中国证监会"
+      },
+      {
+        "id": "C",
+        "text": "国家发改委"
+      },
+      {
+        "id": "D",
+        "text": "财政部"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "中国证监会对证券投资基金活动实施监督管理。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-018",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-3.2.b"
+    ],
+    "chapterId": "k1-ch3",
+    "type": "multi",
+    "stem": "中国证监会可对基金行业采取的监管措施包括（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "现场检查"
+      },
+      {
+        "id": "B",
+        "text": "监管谈话"
+      },
+      {
+        "id": "C",
+        "text": "出具警示函"
+      },
+      {
+        "id": "D",
+        "text": "制定货币政策"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "制定货币政策不属于证监会职责；现场检查、监管谈话、警示函等是常用监管措施。",
+    "difficulty": 2
+  },
+  {
+    "id": "k1-019",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-3.3.a"
+    ],
+    "chapterId": "k1-ch3",
+    "type": "single",
+    "stem": "中国证券投资基金业协会的性质是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "政府行政机关"
+      },
+      {
+        "id": "B",
+        "text": "行业自律组织"
+      },
+      {
+        "id": "C",
+        "text": "商业银行"
+      },
+      {
+        "id": "D",
+        "text": "证券交易所"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "基金业协会是证券投资基金行业的自律性组织。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-020",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-4.1.a"
+    ],
+    "chapterId": "k1-ch4",
+    "type": "single",
+    "stem": "基金管理人的主要职责不包括（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "依法募集资金"
+      },
+      {
+        "id": "B",
+        "text": "进行证券投资"
+      },
+      {
+        "id": "C",
+        "text": "保证基金投资收益"
+      },
+      {
+        "id": "D",
+        "text": "进行基金信息披露"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": "管理人不保证投资收益，但须勤勉尽责地管理和运用基金财产。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-021",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-4.1.b"
+    ],
+    "chapterId": "k1-ch4",
+    "type": "single",
+    "stem": "设立管理公开募集基金的基金管理公司，注册资本应当不低于（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "1000万元人民币"
+      },
+      {
+        "id": "B",
+        "text": "5000万元人民币"
+      },
+      {
+        "id": "C",
+        "text": "1亿元人民币"
+      },
+      {
+        "id": "D",
+        "text": "10亿元人民币"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": "公开募集基金管理人注册资本不低于1亿元人民币，且必须为实缴货币资本。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-022",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-4.1.c"
+    ],
+    "chapterId": "k1-ch4",
+    "type": "single",
+    "stem": "基金管理人的董事、监事、高级管理人员应当（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "无需具备任何从业资格"
+      },
+      {
+        "id": "B",
+        "text": "熟悉证券投资法律法规并具有相关从业经历"
+      },
+      {
+        "id": "C",
+        "text": "只能由境外人士担任"
+      },
+      {
+        "id": "D",
+        "text": "不得持有本公司股份"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "董监高应熟悉基金法律法规，具有基金从业能力与相关工作经历等条件。",
+    "difficulty": 2
+  },
+  {
+    "id": "k1-023",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-4.3.a"
+    ],
+    "chapterId": "k1-ch4",
+    "type": "single",
+    "stem": "基金托管人应当由依法设立并取得基金托管资格的（ ）担任。",
+    "options": [
+      {
+        "id": "A",
+        "text": "证券公司或律师事务所"
+      },
+      {
+        "id": "B",
+        "text": "商业银行或经核准的其他金融机构"
+      },
+      {
+        "id": "C",
+        "text": "任何民营企业"
+      },
+      {
+        "id": "D",
+        "text": "基金销售机构"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "基金托管人由依法设立并取得基金托管资格的商业银行或其他金融机构担任。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-024",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-4.3.b"
+    ],
+    "chapterId": "k1-ch4",
+    "type": "single",
+    "stem": "基金托管人的职责不包括（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "安全保管基金财产"
+      },
+      {
+        "id": "B",
+        "text": "按规定开设基金财产资金账户和证券账户"
+      },
+      {
+        "id": "C",
+        "text": "决定基金的投资标的"
+      },
+      {
+        "id": "D",
+        "text": "对基金财务会计报告出具意见"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": "投资决策由基金管理人负责；托管人保管资产并监督投资运作。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-025",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-4.3.b"
+    ],
+    "chapterId": "k1-ch4",
+    "type": "single",
+    "stem": "基金管理人与基金托管人之间应当（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "相互独立、相互制衡"
+      },
+      {
+        "id": "B",
+        "text": "由同一人兼任法定代表人"
+      },
+      {
+        "id": "C",
+        "text": "合并财务报表"
+      },
+      {
+        "id": "D",
+        "text": "共同承担投资亏损刚性兑付"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "管理人与托管人相互独立、相互制衡，是保护基金财产安全的重要制度安排。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-026",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-5.1.e"
+    ],
+    "chapterId": "k1-ch4",
+    "type": "single",
+    "stem": "基金销售机构从事基金销售活动，应当遵守（ ）原则。",
+    "options": [
+      {
+        "id": "A",
+        "text": "只销售高风险产品"
+      },
+      {
+        "id": "B",
+        "text": "将合适的基金卖给合适的投资者"
+      },
+      {
+        "id": "C",
+        "text": "承诺最低收益"
+      },
+      {
+        "id": "D",
+        "text": "隐瞒风险"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "基金销售应遵循适当性原则，将合适产品销售给合适投资者。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-027",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-5.1.f"
+    ],
+    "chapterId": "k1-ch4",
+    "type": "single",
+    "stem": "基金销售人员从事宣传推介，不得（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "提示投资风险"
+      },
+      {
+        "id": "B",
+        "text": "承诺保本保收益"
+      },
+      {
+        "id": "C",
+        "text": "介绍基金合同要点"
+      },
+      {
+        "id": "D",
+        "text": "提示费率"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "不得承诺保本保收益，不得虚假宣传、误导投资者。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-028",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-4.4.a"
+    ],
+    "chapterId": "k1-ch4",
+    "type": "single",
+    "stem": "基金份额登记机构的主要职责是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "保管基金实物资产"
+      },
+      {
+        "id": "B",
+        "text": "办理基金份额的登记、存管与结算等业务"
+      },
+      {
+        "id": "C",
+        "text": "制定货币政策"
+      },
+      {
+        "id": "D",
+        "text": "审批基金产品"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "登记机构负责份额登记、确认交易、代理发放收益等。",
+    "difficulty": 2
+  },
+  {
+    "id": "k1-029",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-4.5.a"
+    ],
+    "chapterId": "k1-ch4",
+    "type": "single",
+    "stem": "为基金提供审计服务的会计师事务所应当（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "与基金管理人存在重大利害关系亦可无条件承接"
+      },
+      {
+        "id": "B",
+        "text": "勤勉尽责、独立客观出具审计意见"
+      },
+      {
+        "id": "C",
+        "text": "保证基金净值增长"
+      },
+      {
+        "id": "D",
+        "text": "参与基金投资决策"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "会计师事务所应保持独立性，勤勉尽责出具审计报告。",
+    "difficulty": 2
+  },
+  {
+    "id": "k1-030",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-4.6.a"
+    ],
+    "chapterId": "k1-ch4",
+    "type": "single",
+    "stem": "基金从业人员应遵守的基本行为规范不包括（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "守法合规"
+      },
+      {
+        "id": "B",
+        "text": "诚实守信"
+      },
+      {
+        "id": "C",
+        "text": "利用未公开信息交易牟利"
+      },
+      {
+        "id": "D",
+        "text": "专业审慎"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": "利用未公开信息交易属于违法违规，严禁。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-031",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-4.1.d"
+    ],
+    "chapterId": "k1-ch4",
+    "type": "single",
+    "stem": "公开募集基金管理人的股东、实际控制人不得（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "依法行使股东权利"
+      },
+      {
+        "id": "B",
+        "text": "虚假出资、抽逃出资"
+      },
+      {
+        "id": "C",
+        "text": "参与公司治理"
+      },
+      {
+        "id": "D",
+        "text": "推荐董事人选"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "禁止虚假出资、抽逃出资，不得滥用权利损害基金财产或持有人利益。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-032",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-5.1.e"
+    ],
+    "chapterId": "k1-ch4",
+    "type": "multi",
+    "stem": "下列属于基金销售适用性管理要求的有（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "了解基金产品"
+      },
+      {
+        "id": "B",
+        "text": "了解投资者"
+      },
+      {
+        "id": "C",
+        "text": "风险匹配"
+      },
+      {
+        "id": "D",
+        "text": "承诺收益匹配"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "销售适用性强调了解产品与投资者并进行风险匹配，不得承诺收益。",
+    "difficulty": 2
+  },
+  {
+    "id": "k1-033",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-5.1.a"
+    ],
+    "chapterId": "k1-ch5",
+    "type": "single",
+    "stem": "公开募集基金的募集，应当经（ ）注册。",
+    "options": [
+      {
+        "id": "A",
+        "text": "中国人民银行"
+      },
+      {
+        "id": "B",
+        "text": "中国证监会"
+      },
+      {
+        "id": "C",
+        "text": "基金业协会"
+      },
+      {
+        "id": "D",
+        "text": "证券交易所"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "公募基金募集须经中国证监会注册。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-034",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-5.1.b"
+    ],
+    "chapterId": "k1-ch5",
+    "type": "single",
+    "stem": "基金合同是约定（ ）权利义务关系的法律文件。",
+    "options": [
+      {
+        "id": "A",
+        "text": "仅管理人和托管人"
+      },
+      {
+        "id": "B",
+        "text": "基金管理人、托管人与基金份额持有人"
+      },
+      {
+        "id": "C",
+        "text": "仅销售机构与投资者"
+      },
+      {
+        "id": "D",
+        "text": "仅证监会与管理人"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "基金合同约定管理人、托管人、持有人之间的权利义务。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-035",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-5.1.c"
+    ],
+    "chapterId": "k1-ch5",
+    "type": "single",
+    "stem": "基金募集期限届满，封闭式基金募集的基金份额总额达到核准规模的（ ）以上，方可备案成立。",
+    "options": [
+      {
+        "id": "A",
+        "text": "60%"
+      },
+      {
+        "id": "B",
+        "text": "80%"
+      },
+      {
+        "id": "C",
+        "text": "90%"
+      },
+      {
+        "id": "D",
+        "text": "100%"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "封闭式基金募集份额总额达到核准规模的80%以上，开放式基金募集份额总额超过核准的最低募集份额总额，且基金份额持有人人数符合规定。",
+    "difficulty": 2
+  },
+  {
+    "id": "k1-036",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-5.1.c"
+    ],
+    "chapterId": "k1-ch5",
+    "type": "single",
+    "stem": "开放式基金的申购和赎回价格一般采用（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "已知价原则"
+      },
+      {
+        "id": "B",
+        "text": "未知价原则"
+      },
+      {
+        "id": "C",
+        "text": "面值原则"
+      },
+      {
+        "id": "D",
+        "text": "协商定价原则"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "我国开放式基金申购赎回一般采用未知价原则，以申请日收市后基金份额净值为基准。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-037",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-5.1.c"
+    ],
+    "chapterId": "k1-ch5",
+    "type": "single",
+    "stem": "巨额赎回是指单个开放日基金净赎回申请超过前一日基金总份额的（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "5%"
+      },
+      {
+        "id": "B",
+        "text": "10%"
+      },
+      {
+        "id": "C",
+        "text": "15%"
+      },
+      {
+        "id": "D",
+        "text": "20%"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "净赎回申请超过前一日本基金总份额的10%时，为巨额赎回。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-038",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-5.1.c"
+    ],
+    "chapterId": "k1-ch5",
+    "type": "single",
+    "stem": "发生巨额赎回时，基金管理人可以（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "无条件拒绝全部赎回"
+      },
+      {
+        "id": "B",
+        "text": "接受全部赎回或延期办理部分赎回"
+      },
+      {
+        "id": "C",
+        "text": "擅自改变基金投资范围"
+      },
+      {
+        "id": "D",
+        "text": "取消基金合同"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "发生巨额赎回，管理人可接受全额赎回，或对超过部分延期办理。",
+    "difficulty": 2
+  },
+  {
+    "id": "k1-039",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-5.1.g"
+    ],
+    "chapterId": "k1-ch5",
+    "type": "single",
+    "stem": "基金财产应当用于下列投资（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "承销证券"
+      },
+      {
+        "id": "B",
+        "text": "向他人贷款或提供担保"
+      },
+      {
+        "id": "C",
+        "text": "上市交易的股票、债券"
+      },
+      {
+        "id": "D",
+        "text": "从事承担无限责任的投资"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": "基金财产应投资于上市交易的股票、债券和证监会规定的其他证券品种；承销、贷款、无限责任投资等被禁止。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-040",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-5.1.g"
+    ],
+    "chapterId": "k1-ch5",
+    "type": "multi",
+    "stem": "基金财产不得用于（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "承销证券"
+      },
+      {
+        "id": "B",
+        "text": "违反规定向他人贷款"
+      },
+      {
+        "id": "C",
+        "text": "从事承担无限责任的投资"
+      },
+      {
+        "id": "D",
+        "text": "买卖上市交易的债券"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "买卖上市交易的债券是合法投资；前三项属于禁止行为。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-041",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-5.1.g"
+    ],
+    "chapterId": "k1-ch5",
+    "type": "single",
+    "stem": "一只基金持有一家上市公司的股票，其市值不得超过基金资产净值的（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "5%"
+      },
+      {
+        "id": "B",
+        "text": "10%"
+      },
+      {
+        "id": "C",
+        "text": "15%"
+      },
+      {
+        "id": "D",
+        "text": "20%"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "双十原则：一只基金持有一家上市公司股票市值不超过基金资产净值的10%；同一管理人管理的全部基金持有一家公司发行的证券不得超过该证券的10%。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-042",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-5.1.g"
+    ],
+    "chapterId": "k1-ch5",
+    "type": "single",
+    "stem": "同一基金管理人管理的全部基金持有一家公司发行的证券，不得超过该证券的（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "5%"
+      },
+      {
+        "id": "B",
+        "text": "10%"
+      },
+      {
+        "id": "C",
+        "text": "20%"
+      },
+      {
+        "id": "D",
+        "text": "30%"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "即「双十限制」中的第二个10%。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-043",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-5.1.g"
+    ],
+    "chapterId": "k1-ch5",
+    "type": "single",
+    "stem": "基金管理人运用基金财产进行证券投资，应当采用（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "单一证券集中投资"
+      },
+      {
+        "id": "B",
+        "text": "资产组合的方式"
+      },
+      {
+        "id": "C",
+        "text": "仅投资关联方证券"
+      },
+      {
+        "id": "D",
+        "text": "全仓单一债券"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "法律规定应当采用资产组合方式进行证券投资。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-044",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-5.1.h"
+    ],
+    "chapterId": "k1-ch5",
+    "type": "single",
+    "stem": "基金信息披露的基本原则不包括（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "真实性"
+      },
+      {
+        "id": "B",
+        "text": "准确性"
+      },
+      {
+        "id": "C",
+        "text": "完整性"
+      },
+      {
+        "id": "D",
+        "text": "内幕性"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": "披露应真实、准确、完整、及时、公平，不得有虚假记载、误导性陈述或重大遗漏。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-045",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-5.1.b"
+    ],
+    "chapterId": "k1-ch5",
+    "type": "single",
+    "stem": "基金募集失败时，基金管理人应当（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "将募集资金及银行利息退还投资者"
+      },
+      {
+        "id": "B",
+        "text": "将资金转投其他产品"
+      },
+      {
+        "id": "C",
+        "text": "不予退还认购款"
+      },
+      {
+        "id": "D",
+        "text": "强制投资者继续持有"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "募集失败应承担返还责任，退还已募集资金并加计银行同期存款利息。",
+    "difficulty": 2
+  },
+  {
+    "id": "k1-046",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-5.1.c"
+    ],
+    "chapterId": "k1-ch5",
+    "type": "single",
+    "stem": "封闭式基金份额上市交易，应符合的条件不包括（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "基金募集金额不低于2亿元"
+      },
+      {
+        "id": "B",
+        "text": "基金份额持有人不少于1000人"
+      },
+      {
+        "id": "C",
+        "text": "基金合同期限为5年以上"
+      },
+      {
+        "id": "D",
+        "text": "保证年化收益不低于5%"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": "上市交易不要求保证收益；募集金额、持有人人数、合同期限等是法定条件。",
+    "difficulty": 2
+  },
+  {
+    "id": "k1-047",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-5.1.g"
+    ],
+    "chapterId": "k1-ch5",
+    "type": "single",
+    "stem": "基金管理人运用基金财产买卖管理人、托管人及其控股股东发行或承销的证券，应当（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "可以任意交易无需披露"
+      },
+      {
+        "id": "B",
+        "text": "遵循基金份额持有人利益优先原则并履行信息披露等义务"
+      },
+      {
+        "id": "C",
+        "text": "一律禁止任何情形下交易"
+      },
+      {
+        "id": "D",
+        "text": "只需口头告知投资者"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "关联交易受到严格规范，须遵循持有人利益优先并履行相应程序与披露义务。",
+    "difficulty": 2
+  },
+  {
+    "id": "k1-048",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-6.1.a"
+    ],
+    "chapterId": "k1-ch6",
+    "type": "single",
+    "stem": "基金管理人合规管理的目标是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "追求短期业绩最大化"
+      },
+      {
+        "id": "B",
+        "text": "确保公司经营管理符合法律法规和内部制度"
+      },
+      {
+        "id": "C",
+        "text": "减少信息披露"
+      },
+      {
+        "id": "D",
+        "text": "提高杠杆倍数"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "合规管理旨在确保经营活动符合法律、监管规定和自律规则及内部制度。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-049",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-6.1.b"
+    ],
+    "chapterId": "k1-ch6",
+    "type": "single",
+    "stem": "合规管理部门应当（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "隶属于业务部门并接受业务考核"
+      },
+      {
+        "id": "B",
+        "text": "保持独立性"
+      },
+      {
+        "id": "C",
+        "text": "只对业务部门负责"
+      },
+      {
+        "id": "D",
+        "text": "不得向董事会报告"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "合规管理应保持独立性，直接向高级管理层或董事会报告。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-050",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-6.2.a"
+    ],
+    "chapterId": "k1-ch6",
+    "type": "single",
+    "stem": "基金管理人风险管理应覆盖（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "仅市场风险"
+      },
+      {
+        "id": "B",
+        "text": "各类风险并贯穿业务全过程"
+      },
+      {
+        "id": "C",
+        "text": "仅操作风险"
+      },
+      {
+        "id": "D",
+        "text": "仅信用风险"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "风险管理应全面覆盖市场、信用、流动性、操作等风险，贯穿全流程。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-051",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-6.3.a"
+    ],
+    "chapterId": "k1-ch6",
+    "type": "single",
+    "stem": "内部控制的基本要素通常不包括（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "控制环境"
+      },
+      {
+        "id": "B",
+        "text": "风险评估"
+      },
+      {
+        "id": "C",
+        "text": "控制活动"
+      },
+      {
+        "id": "D",
+        "text": "投资收益承诺"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": "内控要素包括控制环境、风险评估、控制活动、信息沟通、内部监控等。",
+    "difficulty": 2
+  },
+  {
+    "id": "k1-052",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-6.3.b"
+    ],
+    "chapterId": "k1-ch6",
+    "type": "single",
+    "stem": "基金公司内部控制应遵循的原则包括（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "健全性、有效性、独立性、相互制约、成本效益"
+      },
+      {
+        "id": "B",
+        "text": "只要业绩好即可忽视内控"
+      },
+      {
+        "id": "C",
+        "text": "内控可完全外包给销售机构"
+      },
+      {
+        "id": "D",
+        "text": "内控只针对普通员工"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "健全、有效、独立、相互制约、成本效益等是内控基本原则。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-053",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-7.1.a"
+    ],
+    "chapterId": "k1-ch7",
+    "type": "single",
+    "stem": "基金职业道德的核心规范通常包括（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "诚实守信、客户至上"
+      },
+      {
+        "id": "B",
+        "text": "内幕交易、利益输送"
+      },
+      {
+        "id": "C",
+        "text": "虚假宣传、承诺收益"
+      },
+      {
+        "id": "D",
+        "text": "操纵市场、老鼠仓"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "职业道德强调守法合规、诚实守信、专业审慎、客户至上、忠诚尽责等。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-054",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-7.5.a"
+    ],
+    "chapterId": "k1-ch7",
+    "type": "single",
+    "stem": "「客户至上」要求基金从业人员（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "优先考虑公司销售业绩"
+      },
+      {
+        "id": "B",
+        "text": "优先维护客户合法利益"
+      },
+      {
+        "id": "C",
+        "text": "向所有客户推荐同一高风险产品"
+      },
+      {
+        "id": "D",
+        "text": "隐瞒产品风险以促成交易"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "客户利益优先，不得为自身或公司利益损害客户合法权益。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-055",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-7.3.b"
+    ],
+    "chapterId": "k1-ch7",
+    "type": "single",
+    "stem": "基金从业人员不得从事的行为是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "持续学习提升专业能力"
+      },
+      {
+        "id": "B",
+        "text": "利用职务便利为自己或他人牟取不当利益"
+      },
+      {
+        "id": "C",
+        "text": "保守客户秘密"
+      },
+      {
+        "id": "D",
+        "text": "客观说明产品风险"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "利用职务便利牟取不当利益（如老鼠仓）严重违反职业道德与法律。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-056",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-7.3.a"
+    ],
+    "chapterId": "k1-ch7",
+    "type": "single",
+    "stem": "诚实守信要求从业人员（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "可以适当夸大历史业绩"
+      },
+      {
+        "id": "B",
+        "text": "不得欺诈客户、虚假陈述"
+      },
+      {
+        "id": "C",
+        "text": "对风险只字不提"
+      },
+      {
+        "id": "D",
+        "text": "私下承诺保本"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "诚实守信禁止欺诈、误导和虚假陈述。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-057",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-7.4.a"
+    ],
+    "chapterId": "k1-ch7",
+    "type": "single",
+    "stem": "专业审慎要求基金从业人员（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "不具备专业能力也可推介复杂产品"
+      },
+      {
+        "id": "B",
+        "text": "具备相应专业知识和技能并谨慎执业"
+      },
+      {
+        "id": "C",
+        "text": "完全依赖销售话术"
+      },
+      {
+        "id": "D",
+        "text": "忽视尽职调查"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "应具备专业能力，审慎尽责地开展业务。",
+    "difficulty": 2
+  },
+  {
+    "id": "k1-058",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-7.2.a"
+    ],
+    "chapterId": "k1-ch7",
+    "type": "multi",
+    "stem": "下列属于基金职业道德规范基本内容的有（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "守法合规"
+      },
+      {
+        "id": "B",
+        "text": "诚实守信"
+      },
+      {
+        "id": "C",
+        "text": "忠诚尽责"
+      },
+      {
+        "id": "D",
+        "text": "内幕交易"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "内幕交易是严厉禁止的违法违规行为，不属于职业道德倡导内容。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-059",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-8.1.a"
+    ],
+    "chapterId": "k1-ch8",
+    "type": "single",
+    "stem": "基金行业文化建设的重要意义在于（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "仅提高短期销售规模"
+      },
+      {
+        "id": "B",
+        "text": "促进行业诚信合规和高质量发展"
+      },
+      {
+        "id": "C",
+        "text": "弱化投资者保护"
+      },
+      {
+        "id": "D",
+        "text": "取消自律管理"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "文化建设有助于诚信合规、投资者保护和行业长远健康发展。",
+    "difficulty": 2
+  },
+  {
+    "id": "k1-060",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-8.2.a"
+    ],
+    "chapterId": "k1-ch8",
+    "type": "single",
+    "stem": "基金行业文化的核心价值理念通常强调（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "投机取巧"
+      },
+      {
+        "id": "B",
+        "text": "合规、诚信、专业、稳健"
+      },
+      {
+        "id": "C",
+        "text": "刚兑文化"
+      },
+      {
+        "id": "D",
+        "text": "规模至上不顾风险"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "行业倡导合规、诚信、专业、稳健等价值理念。",
+    "difficulty": 2
+  },
+  {
+    "id": "k2-001",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-1.1.a"
+    ],
+    "chapterId": "k2-ch1",
+    "type": "single",
+    "stem": "证券投资基金与股票相比，主要区别在于基金是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "直接投资工具"
+      },
+      {
+        "id": "B",
+        "text": "间接投资工具"
+      },
+      {
+        "id": "C",
+        "text": "固定收益凭证"
+      },
+      {
+        "id": "D",
+        "text": "中央银行负债"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "投资者购买基金由管理人投资证券市场，属于间接投资。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-002",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-1.2.a"
+    ],
+    "chapterId": "k2-ch1",
+    "type": "single",
+    "stem": "契约型基金的投资者是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "公司股东"
+      },
+      {
+        "id": "B",
+        "text": "基金份额持有人（受益人）"
+      },
+      {
+        "id": "C",
+        "text": "公司债权人"
+      },
+      {
+        "id": "D",
+        "text": "基金托管人"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "契约型基金依据基金合同设立，投资者是基金份额持有人。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-003",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-1.3.a"
+    ],
+    "chapterId": "k2-ch1",
+    "type": "single",
+    "stem": "开放式基金与封闭式基金的主要区别不包括（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "期限不同"
+      },
+      {
+        "id": "B",
+        "text": "规模弹性不同"
+      },
+      {
+        "id": "C",
+        "text": "交易方式不同"
+      },
+      {
+        "id": "D",
+        "text": "是否必须投资股票"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": "运作方式差异体现在期限、规模、交易场所/方式等，与是否必须投股票无关。",
+    "difficulty": 2
+  },
+  {
+    "id": "k2-004",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-2.1.a"
+    ],
+    "chapterId": "k2-ch2",
+    "type": "single",
+    "stem": "股票型基金一般要求股票投资比例（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "不低于80%"
+      },
+      {
+        "id": "B",
+        "text": "不低于60%"
+      },
+      {
+        "id": "C",
+        "text": "不高于20%"
+      },
+      {
+        "id": "D",
+        "text": "等于50%"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "股票基金应有80%以上的资产投资于股票。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-005",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-2.1.b"
+    ],
+    "chapterId": "k2-ch2",
+    "type": "single",
+    "stem": "货币市场基金主要投资于（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "长期公司债券"
+      },
+      {
+        "id": "B",
+        "text": "现金、期限在1年以内的债券等货币市场工具"
+      },
+      {
+        "id": "C",
+        "text": "创业板股票"
+      },
+      {
+        "id": "D",
+        "text": "商品期货"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "货币基金投资于货币市场工具，风险较低、流动性高。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-006",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-2.2.a"
+    ],
+    "chapterId": "k2-ch2",
+    "type": "single",
+    "stem": "ETF属于（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "上市交易型开放式指数基金"
+      },
+      {
+        "id": "B",
+        "text": "保本理财产品"
+      },
+      {
+        "id": "C",
+        "text": "银行存款"
+      },
+      {
+        "id": "D",
+        "text": "私募股权基金"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "ETF是在交易所上市交易的开放式指数基金。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-007",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-2.8.a"
+    ],
+    "chapterId": "k2-ch2",
+    "type": "single",
+    "stem": "QDII基金是指（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "仅投资国内市场的基金"
+      },
+      {
+        "id": "B",
+        "text": "在境内设立、投资境外证券市场的基金"
+      },
+      {
+        "id": "C",
+        "text": "只投资黄金的基金"
+      },
+      {
+        "id": "D",
+        "text": "货币基金的别称"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "QDII是合格境内机构投资者，可投资境外证券市场。",
+    "difficulty": 2
+  },
+  {
+    "id": "k2-008",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-3.1.a"
+    ],
+    "chapterId": "k2-ch3",
+    "type": "single",
+    "stem": "反映企业一定时期经营成果的财务报表是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "资产负债表"
+      },
+      {
+        "id": "B",
+        "text": "利润表"
+      },
+      {
+        "id": "C",
+        "text": "现金流量表"
+      },
+      {
+        "id": "D",
+        "text": "所有者权益变动表"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "利润表反映一定会计期间的经营成果；资产负债表反映时点财务状况。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-009",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-3.2.b"
+    ],
+    "chapterId": "k2-ch3",
+    "type": "single",
+    "stem": "流动比率主要用于衡量企业的（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "盈利能力"
+      },
+      {
+        "id": "B",
+        "text": "短期偿债能力"
+      },
+      {
+        "id": "C",
+        "text": "长期成长能力"
+      },
+      {
+        "id": "D",
+        "text": "市场份额"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "流动比率=流动资产/流动负债，衡量短期偿债能力。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-010",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-3.3.a"
+    ],
+    "chapterId": "k2-ch3",
+    "type": "single",
+    "stem": "年利率8%，按单利计算，本金10000元投资3年的终值是（ ）元。",
+    "options": [
+      {
+        "id": "A",
+        "text": "12400"
+      },
+      {
+        "id": "B",
+        "text": "12597"
+      },
+      {
+        "id": "C",
+        "text": "10800"
+      },
+      {
+        "id": "D",
+        "text": "13000"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "单利终值=10000×(1+8%×3)=12400。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-011",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-3.3.a"
+    ],
+    "chapterId": "k2-ch3",
+    "type": "single",
+    "stem": "年利率10%，按复利计算，本金10000元投资2年的终值是（ ）元。",
+    "options": [
+      {
+        "id": "A",
+        "text": "12000"
+      },
+      {
+        "id": "B",
+        "text": "12100"
+      },
+      {
+        "id": "C",
+        "text": "11000"
+      },
+      {
+        "id": "D",
+        "text": "10000"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "复利终值=10000×(1.1)^2=12100。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-012",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-3.3.a"
+    ],
+    "chapterId": "k2-ch3",
+    "type": "single",
+    "stem": "若贴现率10%，一年后到期的1100元，其现值约为（ ）元。",
+    "options": [
+      {
+        "id": "A",
+        "text": "1000"
+      },
+      {
+        "id": "B",
+        "text": "1100"
+      },
+      {
+        "id": "C",
+        "text": "1210"
+      },
+      {
+        "id": "D",
+        "text": "900"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "PV=1100/(1+10%)=1000。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-013",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-3.3.a"
+    ],
+    "chapterId": "k2-ch3",
+    "type": "single",
+    "stem": "永续年金现值公式为（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "C/r"
+      },
+      {
+        "id": "B",
+        "text": "C×r"
+      },
+      {
+        "id": "C",
+        "text": "C×(1+r)"
+      },
+      {
+        "id": "D",
+        "text": "C/(1+r)^n"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "永续年金现值=每期现金流/贴现率=C/r。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-014",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-3.4.a"
+    ],
+    "chapterId": "k2-ch3",
+    "type": "single",
+    "stem": "方差和标准差主要用于衡量投资的（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "预期收益"
+      },
+      {
+        "id": "B",
+        "text": "风险（波动程度）"
+      },
+      {
+        "id": "C",
+        "text": "流动性"
+      },
+      {
+        "id": "D",
+        "text": "税收成本"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "方差/标准差衡量收益率离散程度，是风险度量基础指标。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-015",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-3.4.a"
+    ],
+    "chapterId": "k2-ch3",
+    "type": "single",
+    "stem": "相关系数为-1表示两种资产收益率（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "完全正相关"
+      },
+      {
+        "id": "B",
+        "text": "完全负相关"
+      },
+      {
+        "id": "C",
+        "text": "不相关"
+      },
+      {
+        "id": "D",
+        "text": "相关性无法判断"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "ρ=-1为完全负相关，分散化效果最强。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-016",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-3.4.b"
+    ],
+    "chapterId": "k2-ch3",
+    "type": "single",
+    "stem": "正态分布的特征是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "左偏"
+      },
+      {
+        "id": "B",
+        "text": "钟形对称，均值=中位数=众数"
+      },
+      {
+        "id": "C",
+        "text": "只有正值"
+      },
+      {
+        "id": "D",
+        "text": "方差恒为0"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "标准假设中收益率常近似正态分布，呈钟形对称。",
+    "difficulty": 2
+  },
+  {
+    "id": "k2-017",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-4.1.a"
+    ],
+    "chapterId": "k2-ch4",
+    "type": "single",
+    "stem": "普通股股东享有的权利不包括（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "公司重大决策参与权"
+      },
+      {
+        "id": "B",
+        "text": "公司盈余和剩余资产分配权"
+      },
+      {
+        "id": "C",
+        "text": "优先于债权人的清偿权"
+      },
+      {
+        "id": "D",
+        "text": "选举权与被选举权"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": "债权清偿优先于股权；普通股股东在剩余分配上位于债权人之后。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-018",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-4.2.a"
+    ],
+    "chapterId": "k2-ch4",
+    "type": "single",
+    "stem": "市盈率（P/E）等于（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "每股市价/每股收益"
+      },
+      {
+        "id": "B",
+        "text": "每股收益/每股市价"
+      },
+      {
+        "id": "C",
+        "text": "每股净资产/每股市价"
+      },
+      {
+        "id": "D",
+        "text": "总资产/净利润"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "市盈率=价格/每股收益，是常用估值指标。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-019",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-4.2.b"
+    ],
+    "chapterId": "k2-ch4",
+    "type": "single",
+    "stem": "某股票每股收益2元，市盈率15倍，则每股理论价格为（ ）元。",
+    "options": [
+      {
+        "id": "A",
+        "text": "7.5"
+      },
+      {
+        "id": "B",
+        "text": "17"
+      },
+      {
+        "id": "C",
+        "text": "30"
+      },
+      {
+        "id": "D",
+        "text": "13"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": "价格=EPS×P/E=2×15=30。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-020",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-4.3.a"
+    ],
+    "chapterId": "k2-ch4",
+    "type": "single",
+    "stem": "基本面分析主要关注（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "K线形态"
+      },
+      {
+        "id": "B",
+        "text": "宏观经济、行业与公司财务等"
+      },
+      {
+        "id": "C",
+        "text": "仅成交量"
+      },
+      {
+        "id": "D",
+        "text": "仅主力资金流向"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "基本面分析研究宏观、行业、公司价值；技术分析关注价量形态。",
+    "difficulty": 2
+  },
+  {
+    "id": "k2-021",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-4.4.a"
+    ],
+    "chapterId": "k2-ch4",
+    "type": "single",
+    "stem": "股票投资风险中，可通过组合分散的是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "系统性风险"
+      },
+      {
+        "id": "B",
+        "text": "非系统性风险"
+      },
+      {
+        "id": "C",
+        "text": "市场整体暴跌风险"
+      },
+      {
+        "id": "D",
+        "text": "利率全面上升风险"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "非系统性风险（个股特有风险）可通过分散化降低；系统性风险难以通过分散完全消除。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-022",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-5.1.a"
+    ],
+    "chapterId": "k2-ch5",
+    "type": "single",
+    "stem": "债券的面值是指（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "市场价格"
+      },
+      {
+        "id": "B",
+        "text": "票面记载的本金金额"
+      },
+      {
+        "id": "C",
+        "text": "应计利息"
+      },
+      {
+        "id": "D",
+        "text": "发行费用"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "面值是债券票面本金，到期通常按面值偿还。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-023",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-5.1.a"
+    ],
+    "chapterId": "k2-ch5",
+    "type": "single",
+    "stem": "附息债券的票面利率是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "债券年利息与面值之比"
+      },
+      {
+        "id": "B",
+        "text": "债券年利息与市价之比"
+      },
+      {
+        "id": "C",
+        "text": "到期收益率"
+      },
+      {
+        "id": "D",
+        "text": "即期利率"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "票面利率=年利息/面值。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-024",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-5.3.c"
+    ],
+    "chapterId": "k2-ch5",
+    "type": "single",
+    "stem": "麦考利久期的经济含义是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "债券的票面利率"
+      },
+      {
+        "id": "B",
+        "text": "债券现金流的加权平均到期时间"
+      },
+      {
+        "id": "C",
+        "text": "债券的信用评级"
+      },
+      {
+        "id": "D",
+        "text": "债券的流动性溢价"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "麦考利久期是以现金流现值为权重的加权平均到期时间。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-025",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-5.3.c"
+    ],
+    "chapterId": "k2-ch5",
+    "type": "single",
+    "stem": "在其他条件相同的情况下，债券久期越长，则（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "利率风险越低"
+      },
+      {
+        "id": "B",
+        "text": "利率风险越高"
+      },
+      {
+        "id": "C",
+        "text": "信用风险一定越低"
+      },
+      {
+        "id": "D",
+        "text": "流动性一定越好"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "久期越长，价格对利率变动越敏感，利率风险越高。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-026",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-5.3.c"
+    ],
+    "chapterId": "k2-ch5",
+    "type": "single",
+    "stem": "某债券修正久期为5，收益率上升1%，则价格约下降（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "1%"
+      },
+      {
+        "id": "B",
+        "text": "5%"
+      },
+      {
+        "id": "C",
+        "text": "10%"
+      },
+      {
+        "id": "D",
+        "text": "0.5%"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "ΔP/P≈-修正久期×Δy，收益率升1%，价格约降5%。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-027",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-5.3.c"
+    ],
+    "chapterId": "k2-ch5",
+    "type": "single",
+    "stem": "凸性的作用主要是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "替代信用评级"
+      },
+      {
+        "id": "B",
+        "text": "修正久期对价格变化的近似误差"
+      },
+      {
+        "id": "C",
+        "text": "计算票面利息"
+      },
+      {
+        "id": "D",
+        "text": "确定发行规模"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "引入凸性可提高利率变动下价格变化的估计精度。",
+    "difficulty": 2
+  },
+  {
+    "id": "k2-028",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-5.3.b"
+    ],
+    "chapterId": "k2-ch5",
+    "type": "single",
+    "stem": "债券到期收益率（YTM）是使债券（ ）等于当前市场价格的贴现率。",
+    "options": [
+      {
+        "id": "A",
+        "text": "面值"
+      },
+      {
+        "id": "B",
+        "text": "未来现金流现值之和"
+      },
+      {
+        "id": "C",
+        "text": "票面利息"
+      },
+      {
+        "id": "D",
+        "text": "应计利息"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "YTM是使未来现金流现值等于市价的内含报酬率。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-029",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-5.3.d"
+    ],
+    "chapterId": "k2-ch5",
+    "type": "single",
+    "stem": "信用利差通常是指（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "信用债收益率与无风险收益率之差"
+      },
+      {
+        "id": "B",
+        "text": "股票收益率与债券收益率之差"
+      },
+      {
+        "id": "C",
+        "text": "名义利率与实际利率之差"
+      },
+      {
+        "id": "D",
+        "text": "存款利率与贷款利率之差"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "信用利差补偿投资者承担的信用风险。",
+    "difficulty": 2
+  },
+  {
+    "id": "k2-030",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-6.3.a"
+    ],
+    "chapterId": "k2-ch6",
+    "type": "single",
+    "stem": "远期合约与期货合约的重要区别是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "期货在交易所标准化交易并每日盯市"
+      },
+      {
+        "id": "B",
+        "text": "远期一定在交易所交易"
+      },
+      {
+        "id": "C",
+        "text": "期货不可对冲"
+      },
+      {
+        "id": "D",
+        "text": "远期必须每日结算"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "期货标准化、集中交易、保证金与盯市；远期多为场外定制。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-031",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-6.4.a"
+    ],
+    "chapterId": "k2-ch6",
+    "type": "single",
+    "stem": "看涨期权买方的最大损失是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "无限"
+      },
+      {
+        "id": "B",
+        "text": "期权费"
+      },
+      {
+        "id": "C",
+        "text": "标的资产价格"
+      },
+      {
+        "id": "D",
+        "text": "执行价格"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "期权买方损失有限（权利金），看涨卖方潜在损失 theoretically 无限。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-032",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-6.3.a"
+    ],
+    "chapterId": "k2-ch6",
+    "type": "single",
+    "stem": "金融期货的主要功能之一是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "完全消除所有市场风险而无需成本"
+      },
+      {
+        "id": "B",
+        "text": "价格发现与风险管理（套期保值）"
+      },
+      {
+        "id": "C",
+        "text": "保证投资者盈利"
+      },
+      {
+        "id": "D",
+        "text": "替代股票发行"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "期货具有价格发现和套期保值等功能。",
+    "difficulty": 2
+  },
+  {
+    "id": "k2-033",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-6.5.a"
+    ],
+    "chapterId": "k2-ch6",
+    "type": "single",
+    "stem": "互换合约常见的类型是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "利率互换与货币互换"
+      },
+      {
+        "id": "B",
+        "text": "仅商品现货买卖"
+      },
+      {
+        "id": "C",
+        "text": "仅IPO承销"
+      },
+      {
+        "id": "D",
+        "text": "仅存款协议"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "利率互换、货币互换是最常见的互换类型。",
+    "difficulty": 2
+  },
+  {
+    "id": "k2-034",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-7.1.a"
+    ],
+    "chapterId": "k2-ch7",
+    "type": "single",
+    "stem": "另类投资通常不包括（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "私募股权"
+      },
+      {
+        "id": "B",
+        "text": "不动产"
+      },
+      {
+        "id": "C",
+        "text": "传统股票债券组合"
+      },
+      {
+        "id": "D",
+        "text": "大宗商品"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": "另类投资相对传统股债而言，包括PE、房地产、商品、对冲基金等。",
+    "difficulty": 2
+  },
+  {
+    "id": "k2-035",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-7.2.a"
+    ],
+    "chapterId": "k2-ch7",
+    "type": "single",
+    "stem": "私募股权投资的显著特点是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "高流动性、信息公开"
+      },
+      {
+        "id": "B",
+        "text": "流动性较低、投资期限较长"
+      },
+      {
+        "id": "C",
+        "text": "每日开放申赎"
+      },
+      {
+        "id": "D",
+        "text": "无投资风险"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "PE流动性差、期限长、信息不对称较高。",
+    "difficulty": 2
+  },
+  {
+    "id": "k2-036",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-8.1.a"
+    ],
+    "chapterId": "k2-ch8",
+    "type": "single",
+    "stem": "投资管理的基本流程通常是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "先交易后制定政策"
+      },
+      {
+        "id": "B",
+        "text": "制定投资政策→分析→构建组合→监控与再平衡"
+      },
+      {
+        "id": "C",
+        "text": "只购买热门股票"
+      },
+      {
+        "id": "D",
+        "text": "忽略客户风险承受能力"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "标准流程：政策制定、研究分析、组合构建、监控评估与再平衡。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-037",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-8.2.a"
+    ],
+    "chapterId": "k2-ch8",
+    "type": "single",
+    "stem": "战略资产配置主要决定（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "个股日内买卖点"
+      },
+      {
+        "id": "B",
+        "text": "各大类资产的长期目标权重"
+      },
+      {
+        "id": "C",
+        "text": "仅衍生对冲细节"
+      },
+      {
+        "id": "D",
+        "text": "仅交易通道选择"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "战略资产配置确定长期大类资产比例，对组合收益贡献最大。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-038",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-9.1.a"
+    ],
+    "chapterId": "k2-ch9",
+    "type": "single",
+    "stem": "马科维茨投资组合理论的核心是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "只选择收益率最高的单一资产"
+      },
+      {
+        "id": "B",
+        "text": "在既定风险下最大化收益或既定收益下最小化风险"
+      },
+      {
+        "id": "C",
+        "text": "忽略资产间相关性"
+      },
+      {
+        "id": "D",
+        "text": "只投资无风险资产"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "均值-方差分析追求风险收益有效边界上的最优组合。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-039",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-9.2.a"
+    ],
+    "chapterId": "k2-ch9",
+    "type": "single",
+    "stem": "根据CAPM，资产的预期收益等于（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "无风险利率+β×市场风险溢价"
+      },
+      {
+        "id": "B",
+        "text": "无风险利率-β×市场风险溢价"
+      },
+      {
+        "id": "C",
+        "text": "仅无风险利率"
+      },
+      {
+        "id": "D",
+        "text": "仅市场收益率"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "E(Ri)=Rf+βi×[E(Rm)-Rf]。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-040",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-9.2.a"
+    ],
+    "chapterId": "k2-ch9",
+    "type": "single",
+    "stem": "若Rf=3%，E(Rm)=11%，某股票β=1.2，则按CAPM其预期收益率为（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "9.6%"
+      },
+      {
+        "id": "B",
+        "text": "12.6%"
+      },
+      {
+        "id": "C",
+        "text": "11%"
+      },
+      {
+        "id": "D",
+        "text": "14.2%"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "E(R)=3%+1.2×(11%-3%)=3%+9.6%=12.6%。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-041",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-9.2.a"
+    ],
+    "chapterId": "k2-ch9",
+    "type": "single",
+    "stem": "β系数衡量的是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "非系统性风险"
+      },
+      {
+        "id": "B",
+        "text": "系统性风险"
+      },
+      {
+        "id": "C",
+        "text": "流动性风险"
+      },
+      {
+        "id": "D",
+        "text": "操作风险"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "β反映资产收益对市场组合变动的敏感度，度量系统性风险。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-042",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-9.2.b"
+    ],
+    "chapterId": "k2-ch9",
+    "type": "single",
+    "stem": "证券市场线（SML）描述的是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "预期收益与β的关系"
+      },
+      {
+        "id": "B",
+        "text": "预期收益与总风险（标准差）的关系"
+      },
+      {
+        "id": "C",
+        "text": "价格与成交量的关系"
+      },
+      {
+        "id": "D",
+        "text": "久期与凸性的关系"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "SML刻画预期收益与系统性风险β的线性关系；CML针对总风险。",
+    "difficulty": 2
+  },
+  {
+    "id": "k2-043",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-9.3.a"
+    ],
+    "chapterId": "k2-ch9",
+    "type": "single",
+    "stem": "被动投资策略的典型代表是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "指数基金/ETF"
+      },
+      {
+        "id": "B",
+        "text": "高频择时交易"
+      },
+      {
+        "id": "C",
+        "text": "集中押注单一题材"
+      },
+      {
+        "id": "D",
+        "text": "每日全仓换股"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "被动投资旨在复制指数表现，成本较低。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-044",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-9.4.a"
+    ],
+    "chapterId": "k2-ch9",
+    "type": "single",
+    "stem": "分散化投资可以（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "完全消除系统性风险"
+      },
+      {
+        "id": "B",
+        "text": "降低非系统性风险"
+      },
+      {
+        "id": "C",
+        "text": "保证盈利"
+      },
+      {
+        "id": "D",
+        "text": "提高单一股票敞口"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "分散化主要降低非系统性风险。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-045",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-10.1.a"
+    ],
+    "chapterId": "k2-ch10",
+    "type": "single",
+    "stem": "基金投资交易应遵循的原则包括（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "公平交易、利益冲突管理"
+      },
+      {
+        "id": "B",
+        "text": "优先本人账户成交"
+      },
+      {
+        "id": "C",
+        "text": "随意进行利益输送"
+      },
+      {
+        "id": "D",
+        "text": "无视交易对手风险"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "应公平对待各基金与客户，防范利益冲突与输送。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-046",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-10.2.a"
+    ],
+    "chapterId": "k2-ch10",
+    "type": "single",
+    "stem": "交易成本通常包括（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "佣金、冲击成本、机会成本等"
+      },
+      {
+        "id": "B",
+        "text": "仅公司注册资本"
+      },
+      {
+        "id": "C",
+        "text": "仅托管费"
+      },
+      {
+        "id": "D",
+        "text": "仅销售服务费"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "显性成本如佣金税费，隐性成本含冲击成本、时机成本等。",
+    "difficulty": 2
+  },
+  {
+    "id": "k2-047",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-11.1.a"
+    ],
+    "chapterId": "k2-ch11",
+    "type": "single",
+    "stem": "市场风险主要来源于（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "市场价格不利变动"
+      },
+      {
+        "id": "B",
+        "text": "仅操作失误"
+      },
+      {
+        "id": "C",
+        "text": "仅计算机故障"
+      },
+      {
+        "id": "D",
+        "text": "仅法律变更"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "市场风险是利率、汇率、股价、商品价格等不利变动导致损失的风险。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-048",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-11.1.b"
+    ],
+    "chapterId": "k2-ch11",
+    "type": "single",
+    "stem": "VaR（风险价值）表示（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "在一定置信水平下、特定持有期内的最大预期损失"
+      },
+      {
+        "id": "B",
+        "text": "投资组合的票面价值"
+      },
+      {
+        "id": "C",
+        "text": "无风险收益率"
+      },
+      {
+        "id": "D",
+        "text": "基金的管理费率"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "VaR是给定置信度和持有期下的可能损失上限度量。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-049",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-11.2.a"
+    ],
+    "chapterId": "k2-ch11",
+    "type": "single",
+    "stem": "流动性风险是指（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "无法以合理价格及时变现或满足赎回的风险"
+      },
+      {
+        "id": "B",
+        "text": "股价上涨风险"
+      },
+      {
+        "id": "C",
+        "text": "信用评级上调风险"
+      },
+      {
+        "id": "D",
+        "text": "通胀下降风险"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "流动性风险包括资产变现困难与资金兑付压力等。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-050",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-11.2.b"
+    ],
+    "chapterId": "k2-ch11",
+    "type": "single",
+    "stem": "信用风险是指（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "交易对手或发行人未能履行契约义务的风险"
+      },
+      {
+        "id": "B",
+        "text": "股价波动风险"
+      },
+      {
+        "id": "C",
+        "text": "汇率升值风险"
+      },
+      {
+        "id": "D",
+        "text": "操作人员操作成功的风险"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "信用风险即违约或信用质量下降导致损失的风险。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-051",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-11.3.a"
+    ],
+    "chapterId": "k2-ch11",
+    "type": "single",
+    "stem": "风险管理的基本流程是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "风险识别→风险评估→风险应对→监控报告"
+      },
+      {
+        "id": "B",
+        "text": "先出险后补救即可，无需事前管理"
+      },
+      {
+        "id": "C",
+        "text": "只购买保险"
+      },
+      {
+        "id": "D",
+        "text": "忽略风险直接加杠杆"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "完整流程包括识别、衡量/评估、应对与持续监控。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-052",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-11.1.b"
+    ],
+    "chapterId": "k2-ch11",
+    "type": "multi",
+    "stem": "下列属于基金投资面临的主要风险类型的有（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "市场风险"
+      },
+      {
+        "id": "B",
+        "text": "信用风险"
+      },
+      {
+        "id": "C",
+        "text": "流动性风险"
+      },
+      {
+        "id": "D",
+        "text": "无风险利率本身"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "无风险利率是定价基准，不是风险类型名称；前三项是主要风险类别。",
+    "difficulty": 2
+  },
+  {
+    "id": "k2-053",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-12.2.a"
+    ],
+    "chapterId": "k2-ch12",
+    "type": "single",
+    "stem": "持有期收益率的基本公式是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "(期末价格-期初价格+期间收益)/期初价格"
+      },
+      {
+        "id": "B",
+        "text": "期末价格/面值"
+      },
+      {
+        "id": "C",
+        "text": "票面利率"
+      },
+      {
+        "id": "D",
+        "text": "管理费率"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "HPR=(P1-P0+D)/P0。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-054",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-12.2.a"
+    ],
+    "chapterId": "k2-ch12",
+    "type": "single",
+    "stem": "某基金期初净值1.00元，期末净值1.08元，期间无分红，持有期收益率是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "8%"
+      },
+      {
+        "id": "B",
+        "text": "0.08%"
+      },
+      {
+        "id": "C",
+        "text": "1.08%"
+      },
+      {
+        "id": "D",
+        "text": "108%"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "(1.08-1.00)/1.00=8%。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-055",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-12.2.d"
+    ],
+    "chapterId": "k2-ch12",
+    "type": "single",
+    "stem": "夏普比率的分母是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "组合标准差"
+      },
+      {
+        "id": "B",
+        "text": "组合β"
+      },
+      {
+        "id": "C",
+        "text": "无风险利率"
+      },
+      {
+        "id": "D",
+        "text": "跟踪误差"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "夏普=(Rp-Rf)/σp，以总风险为分母。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-056",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-12.2.d"
+    ],
+    "chapterId": "k2-ch12",
+    "type": "single",
+    "stem": "特雷诺比率与夏普比率的区别在于（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "特雷诺用β，夏普用总风险标准差"
+      },
+      {
+        "id": "B",
+        "text": "特雷诺用标准差，夏普用β"
+      },
+      {
+        "id": "C",
+        "text": "二者完全相同"
+      },
+      {
+        "id": "D",
+        "text": "特雷诺不考虑无风险利率"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "特雷诺=(Rp-Rf)/βp。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-057",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-12.2.d"
+    ],
+    "chapterId": "k2-ch12",
+    "type": "single",
+    "stem": "詹森α衡量的是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "组合相对CAPM预期收益的超额收益"
+      },
+      {
+        "id": "B",
+        "text": "组合的票面利率"
+      },
+      {
+        "id": "C",
+        "text": "组合的久期"
+      },
+      {
+        "id": "D",
+        "text": "组合的换手率"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "α=Rp-[Rf+β(Rm-Rf)]，反映选股或择时带来的超额表现。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-058",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-12.3.a"
+    ],
+    "chapterId": "k2-ch12",
+    "type": "single",
+    "stem": "基金业绩归因分析的目的是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "分解业绩来源（资产配置、行业、个股选择等）"
+      },
+      {
+        "id": "B",
+        "text": "计算托管费"
+      },
+      {
+        "id": "C",
+        "text": "确定注册资本"
+      },
+      {
+        "id": "D",
+        "text": "审批基金产品"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "归因分析揭示收益来自配置还是选择等因素。",
+    "difficulty": 2
+  },
+  {
+    "id": "k2-059",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-13.1.a"
+    ],
+    "chapterId": "k2-ch13",
+    "type": "single",
+    "stem": "开放式基金的募集期认购，价格通常按（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "1元基金份额面值"
+      },
+      {
+        "id": "B",
+        "text": "二级市场收盘价"
+      },
+      {
+        "id": "C",
+        "text": "上一日净值"
+      },
+      {
+        "id": "D",
+        "text": "协商价"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "募集期认购一般按基金份额面值1元。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-060",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-13.2.a"
+    ],
+    "chapterId": "k2-ch13",
+    "type": "single",
+    "stem": "投资者申购金额10000元，申购费率1.5%，申购日净值1.00元，净申购金额是（ ）元。",
+    "options": [
+      {
+        "id": "A",
+        "text": "10000"
+      },
+      {
+        "id": "B",
+        "text": "9852.22"
+      },
+      {
+        "id": "C",
+        "text": "10150"
+      },
+      {
+        "id": "D",
+        "text": "9850"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "净申购金额=申购金额/(1+费率)=10000/1.015≈9852.22。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-061",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-13.2.a"
+    ],
+    "chapterId": "k2-ch13",
+    "type": "single",
+    "stem": "接上题，申购份额约为（ ）份。（净值1.00元）",
+    "options": [
+      {
+        "id": "A",
+        "text": "10000"
+      },
+      {
+        "id": "B",
+        "text": "9852.22"
+      },
+      {
+        "id": "C",
+        "text": "10150"
+      },
+      {
+        "id": "D",
+        "text": "150"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "申购份额=净申购金额/净值≈9852.22/1.00=9852.22份。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-062",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-13.2.a"
+    ],
+    "chapterId": "k2-ch13",
+    "type": "single",
+    "stem": "投资者赎回1000份，赎回日净值1.200元，赎回费率0.5%，赎回金额是（ ）元。",
+    "options": [
+      {
+        "id": "A",
+        "text": "1200"
+      },
+      {
+        "id": "B",
+        "text": "1194"
+      },
+      {
+        "id": "C",
+        "text": "1000"
+      },
+      {
+        "id": "D",
+        "text": "1195"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "赎回金额=1000×1.2×(1-0.5%)=1200×0.995=1194。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-063",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-13.3.a"
+    ],
+    "chapterId": "k2-ch13",
+    "type": "single",
+    "stem": "基金份额的登记是指（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "记录投资者所持份额变动等情况"
+      },
+      {
+        "id": "B",
+        "text": "保管股票实物"
+      },
+      {
+        "id": "C",
+        "text": "制定投资策略"
+      },
+      {
+        "id": "D",
+        "text": "交易所撮合"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "登记机构记录份额归属与变更。",
+    "difficulty": 2
+  },
+  {
+    "id": "k2-064",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-14.1.a"
+    ],
+    "chapterId": "k2-ch14",
+    "type": "single",
+    "stem": "我国证券交易的结算原则通常强调（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "货银对付（DVP）"
+      },
+      {
+        "id": "B",
+        "text": "先交货无限期延迟付款"
+      },
+      {
+        "id": "C",
+        "text": "口头成交即可"
+      },
+      {
+        "id": "D",
+        "text": "无需交收"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "DVP是重要风险管理原则，保障货银同步交收。",
+    "difficulty": 2
+  },
+  {
+    "id": "k2-065",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-14.2.a"
+    ],
+    "chapterId": "k2-ch14",
+    "type": "single",
+    "stem": "基金在证券交易所的证券交易，一般通过（ ）进行。",
+    "options": [
+      {
+        "id": "A",
+        "text": "基金管理人的交易单元（席位）"
+      },
+      {
+        "id": "B",
+        "text": "投资者个人股东卡直接下单给基金"
+      },
+      {
+        "id": "C",
+        "text": "中国人民银行柜台"
+      },
+      {
+        "id": "D",
+        "text": "住建部门系统"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "基金证券交易通过管理人租用的交易单元完成。",
+    "difficulty": 2
+  },
+  {
+    "id": "k2-066",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-15.1.a"
+    ],
+    "chapterId": "k2-ch15",
+    "type": "single",
+    "stem": "基金份额净值的计算公式是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "(基金资产总值-基金负债)/基金份额总数"
+      },
+      {
+        "id": "B",
+        "text": "基金资产总值/负债"
+      },
+      {
+        "id": "C",
+        "text": "基金份额总数/资产总值"
+      },
+      {
+        "id": "D",
+        "text": "管理费/托管费"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "NAV=(资产-负债)/份额。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-067",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-15.1.a"
+    ],
+    "chapterId": "k2-ch15",
+    "type": "single",
+    "stem": "某基金资产总值10.5亿元，负债0.5亿元，份额10亿份，则基金份额净值为（ ）元。",
+    "options": [
+      {
+        "id": "A",
+        "text": "1.05"
+      },
+      {
+        "id": "B",
+        "text": "1.00"
+      },
+      {
+        "id": "C",
+        "text": "0.95"
+      },
+      {
+        "id": "D",
+        "text": "1.10"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "NAV=(10.5-0.5)/10=1.00元。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-068",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-15.1.b"
+    ],
+    "chapterId": "k2-ch15",
+    "type": "single",
+    "stem": "当估值错误达到基金份额净值的（ ）时，管理人应当公告并及时纠正。",
+    "options": [
+      {
+        "id": "A",
+        "text": "0.25%"
+      },
+      {
+        "id": "B",
+        "text": "0.5%"
+      },
+      {
+        "id": "C",
+        "text": "1%"
+      },
+      {
+        "id": "D",
+        "text": "5%"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "估值错误达基金资产净值0.5%时应公告、通报托管人并纠正。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-069",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-15.2.a"
+    ],
+    "chapterId": "k2-ch15",
+    "type": "single",
+    "stem": "基金管理费通常的计提基础是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "前一日基金资产净值"
+      },
+      {
+        "id": "B",
+        "text": "基金份额面值"
+      },
+      {
+        "id": "C",
+        "text": "投资者工资收入"
+      },
+      {
+        "id": "D",
+        "text": "上交所指数点位"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "管理费一般按前一日基金资产净值的一定年费率逐日计提。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-070",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-15.2.a"
+    ],
+    "chapterId": "k2-ch15",
+    "type": "single",
+    "stem": "某基金前一日资产净值100亿元，年管理费率1.5%，则当日应计提管理费约为（ ）元。（按365天）",
+    "options": [
+      {
+        "id": "A",
+        "text": "410958.90"
+      },
+      {
+        "id": "B",
+        "text": "1500000"
+      },
+      {
+        "id": "C",
+        "text": "100000"
+      },
+      {
+        "id": "D",
+        "text": "15000"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "日管理费=100亿×1.5%/365≈4,109,58.90元。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-071",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-15.2.b"
+    ],
+    "chapterId": "k2-ch15",
+    "type": "single",
+    "stem": "下列费用通常由基金资产承担的是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "基金管理费与托管费"
+      },
+      {
+        "id": "B",
+        "text": "投资者个人的证券账户开户费"
+      },
+      {
+        "id": "C",
+        "text": "基金管理人的办公楼购置款（与基金无关）"
+      },
+      {
+        "id": "D",
+        "text": "销售机构的全部广告费（合同未约定）"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "管理费、托管费等从基金资产中计提；与基金无关的管理人自身费用不得转嫁。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-072",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-15.3.a"
+    ],
+    "chapterId": "k2-ch15",
+    "type": "single",
+    "stem": "基金会计的主体是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "基金管理人"
+      },
+      {
+        "id": "B",
+        "text": "基金（基金财产）"
+      },
+      {
+        "id": "C",
+        "text": "基金份额持有人个人"
+      },
+      {
+        "id": "D",
+        "text": "基金托管人"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "基金会计以基金为会计主体，独立建账、独立核算。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-073",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-16.1.a"
+    ],
+    "chapterId": "k2-ch16",
+    "type": "single",
+    "stem": "开放式基金收益分配后，基金份额净值不能低于（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "面值"
+      },
+      {
+        "id": "B",
+        "text": "发行价的80%"
+      },
+      {
+        "id": "C",
+        "text": "上一日净值"
+      },
+      {
+        "id": "D",
+        "text": "申购费"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "收益分配后基金份额净值不能低于面值。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-074",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-16.1.b"
+    ],
+    "chapterId": "k2-ch16",
+    "type": "single",
+    "stem": "基金利润来源主要包括（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "利息收入、投资收益、公允价值变动损益等"
+      },
+      {
+        "id": "B",
+        "text": "仅认购费"
+      },
+      {
+        "id": "C",
+        "text": "仅赎回费"
+      },
+      {
+        "id": "D",
+        "text": "仅销售服务费"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "基金利润来自利息、投资收益、公允价值变动等。",
+    "difficulty": 2
+  },
+  {
+    "id": "k2-075",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-16.2.a"
+    ],
+    "chapterId": "k2-ch16",
+    "type": "single",
+    "stem": "关于基金税收，下列说法较符合现行常见表述的是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "机构投资者买卖基金份额的差价收入目前往往征收企业所得税"
+      },
+      {
+        "id": "B",
+        "text": "基金的任何投资收益一律免税且无任何例外"
+      },
+      {
+        "id": "C",
+        "text": "个人买卖股票型基金份额差价目前普遍征收20%个税且无优惠表述"
+      },
+      {
+        "id": "D",
+        "text": "托管人缴纳基金的全部增值税"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "税收政策有具体规定且可能调整；机构差价收入税务处理与个人不同，复习以教材现行口径为准。",
+    "difficulty": 3
+  },
+  {
+    "id": "k2-076",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-17.1.a"
+    ],
+    "chapterId": "k2-ch17",
+    "type": "single",
+    "stem": "基金信息披露的目标是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "保护投资者利益，提高市场透明度"
+      },
+      {
+        "id": "B",
+        "text": "帮助管理人操纵净值"
+      },
+      {
+        "id": "C",
+        "text": "减少监管关注"
+      },
+      {
+        "id": "D",
+        "text": "仅满足广告需要"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "信息披露旨在保证真实性与透明度，保护投资者。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-077",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-17.2.a"
+    ],
+    "chapterId": "k2-ch17",
+    "type": "single",
+    "stem": "开放式基金应定期披露（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "基金份额净值等运作信息"
+      },
+      {
+        "id": "B",
+        "text": "基金管理人股东的个人消费"
+      },
+      {
+        "id": "C",
+        "text": "无关第三方商业机密"
+      },
+      {
+        "id": "D",
+        "text": "未发生的虚假业绩"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "应披露净值、报告等法定信息，禁止虚假记载。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-078",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-18.1.a"
+    ],
+    "chapterId": "k2-ch18",
+    "type": "single",
+    "stem": "基金销售适用性的核心是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "将合适的产品销售给合适的投资者"
+      },
+      {
+        "id": "B",
+        "text": "向所有人销售最高风险产品"
+      },
+      {
+        "id": "C",
+        "text": "忽略风险测评"
+      },
+      {
+        "id": "D",
+        "text": "只看销售额"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "了解产品与客户并进行风险匹配。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-079",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-18.2.a"
+    ],
+    "chapterId": "k2-ch18",
+    "type": "single",
+    "stem": "投资者风险承受能力评估结果应用于（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "匹配适当的基金产品风险等级"
+      },
+      {
+        "id": "B",
+        "text": "决定存款利率"
+      },
+      {
+        "id": "C",
+        "text": "审批基金公司设立"
+      },
+      {
+        "id": "D",
+        "text": "计算GDP"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "风险测评结果用于销售适当性匹配。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-080",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-18.3.a"
+    ],
+    "chapterId": "k2-ch18",
+    "type": "single",
+    "stem": "基金宣传推介材料不得（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "登载基金过往业绩并作特别提示"
+      },
+      {
+        "id": "B",
+        "text": "预测基金投资业绩"
+      },
+      {
+        "id": "C",
+        "text": "提示投资者注意风险"
+      },
+      {
+        "id": "D",
+        "text": "说明费率"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "不得预测基金的证券投资业绩，不得违规承诺收益或承担损失。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-061",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-4.1.e"
+    ],
+    "chapterId": "k1-ch4",
+    "type": "single",
+    "stem": "基金管理人应当建立健全（ ）制度，确保基金财产的安全。",
+    "options": [
+      {
+        "id": "A",
+        "text": "内部控制与风险管理"
+      },
+      {
+        "id": "B",
+        "text": "刚性兑付"
+      },
+      {
+        "id": "C",
+        "text": "保本承诺"
+      },
+      {
+        "id": "D",
+        "text": "关联输送"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "管理人须建立完善的内控和风险管理体系。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-062",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-5.1.h"
+    ],
+    "chapterId": "k1-ch5",
+    "type": "single",
+    "stem": "公开披露基金信息，不得有（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "真实准确的表述"
+      },
+      {
+        "id": "B",
+        "text": "虚假记载、误导性陈述或重大遗漏"
+      },
+      {
+        "id": "C",
+        "text": "风险提示"
+      },
+      {
+        "id": "D",
+        "text": "法定报告"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "禁止虚假记载、误导性陈述和重大遗漏。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-063",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-7.1.b"
+    ],
+    "chapterId": "k1-ch7",
+    "type": "single",
+    "stem": "基金职业道德与法律法规的关系是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "职业道德是法律法规的重要补充，要求往往更高"
+      },
+      {
+        "id": "B",
+        "text": "有了法律就无需职业道德"
+      },
+      {
+        "id": "C",
+        "text": "职业道德可以取代法律"
+      },
+      {
+        "id": "D",
+        "text": "二者毫无关系"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "法律是底线，职业道德在法律基础上提出更高行为要求。",
+    "difficulty": 2
+  },
+  {
+    "id": "k1-064",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-6.2.b"
+    ],
+    "chapterId": "k1-ch6",
+    "type": "single",
+    "stem": "操作风险主要源于（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "不完善的内部程序、人员、系统或外部事件"
+      },
+      {
+        "id": "B",
+        "text": "仅股价下跌"
+      },
+      {
+        "id": "C",
+        "text": "仅利率上升"
+      },
+      {
+        "id": "D",
+        "text": "仅汇率变动"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "操作风险来自内部流程、人员、系统缺陷及外部事件。",
+    "difficulty": 2
+  },
+  {
+    "id": "k1-065",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-3.3.b"
+    ],
+    "chapterId": "k1-ch3",
+    "type": "single",
+    "stem": "基金业协会的职责不包括（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "制定和实施行业自律规则"
+      },
+      {
+        "id": "B",
+        "text": "对会员进行自律管理"
+      },
+      {
+        "id": "C",
+        "text": "替代证监会进行全部行政处罚"
+      },
+      {
+        "id": "D",
+        "text": "开展投资者教育"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": "协会负责自律管理，行政处罚权主要由证监会等行政监管部门依法行使。",
+    "difficulty": 2
+  },
+  {
+    "id": "k1-066",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-2.3.a"
+    ],
+    "chapterId": "k1-ch2",
+    "type": "single",
+    "stem": "我国公募基金发展历程中，具有里程碑意义的法律是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "2003年通过、后经修订的《证券投资基金法》"
+      },
+      {
+        "id": "B",
+        "text": "《票据法》"
+      },
+      {
+        "id": "C",
+        "text": "《海商法》"
+      },
+      {
+        "id": "D",
+        "text": "《专利法》"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "《证券投资基金法》为公募基金规范发展奠定法律基础。",
+    "difficulty": 3
+  },
+  {
+    "id": "k1-067",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-5.2.d"
+    ],
+    "chapterId": "k1-ch5",
+    "type": "single",
+    "stem": "开放式基金连续发生巨额赎回时，基金管理人可按基金合同约定暂停接受赎回申请，但应当（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "充分履行信息披露义务"
+      },
+      {
+        "id": "B",
+        "text": "秘密处理不公告"
+      },
+      {
+        "id": "C",
+        "text": "更改基金投资目标而不告知"
+      },
+      {
+        "id": "D",
+        "text": "拒绝一切咨询"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "暂停赎回等重大事项必须依法及时披露。",
+    "difficulty": 2
+  },
+  {
+    "id": "k1-068",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-4.3.b"
+    ],
+    "chapterId": "k1-ch4",
+    "type": "single",
+    "stem": "基金托管人发现基金管理人的投资指令违反法律或基金合同，应当（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "拒绝执行并立即通知管理人，同时向证监会报告"
+      },
+      {
+        "id": "B",
+        "text": "继续无条件执行"
+      },
+      {
+        "id": "C",
+        "text": "替管理人修改投资范围"
+      },
+      {
+        "id": "D",
+        "text": "隐瞒不报"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "托管人有监督职责，对违规指令应拒绝执行并报告。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-069",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-8.3.a"
+    ],
+    "chapterId": "k1-ch8",
+    "type": "single",
+    "stem": "加强基金行业文化建设，要求机构（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "平衡好经济效益与社会效益，践行社会责任"
+      },
+      {
+        "id": "B",
+        "text": "只追求规模扩张"
+      },
+      {
+        "id": "C",
+        "text": "忽视合规成本"
+      },
+      {
+        "id": "D",
+        "text": "鼓励员工内幕交易"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "文化建设强调诚信合规与社会责任。",
+    "difficulty": 3
+  },
+  {
+    "id": "k1-070",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-1.1.d"
+    ],
+    "chapterId": "k1-ch1",
+    "type": "single",
+    "stem": "金融市场在国民经济中的重要地位体现在（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "是储蓄转化为投资的重要枢纽"
+      },
+      {
+        "id": "B",
+        "text": "可以替代所有实体企业"
+      },
+      {
+        "id": "C",
+        "text": "与实体经济无关"
+      },
+      {
+        "id": "D",
+        "text": "只服务投机者"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "金融市场连接储蓄与投资，服务实体经济。",
+    "difficulty": 2
+  },
+  {
+    "id": "k2-081",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-15.2.a"
+    ],
+    "chapterId": "k2-ch15",
+    "type": "single",
+    "stem": "销售服务费通常出现在（ ）基金中，用于支付销售机构佣金等。",
+    "options": [
+      {
+        "id": "A",
+        "text": "C类份额等"
+      },
+      {
+        "id": "B",
+        "text": "所有封闭式基金强制"
+      },
+      {
+        "id": "C",
+        "text": "仅QDII禁止收取"
+      },
+      {
+        "id": "D",
+        "text": "银行存款"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "基金前端/后端收费与C类销售服务费是常见收费方式差异。",
+    "difficulty": 2
+  },
+  {
+    "id": "k2-082",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-5.1.a"
+    ],
+    "chapterId": "k2-ch5",
+    "type": "single",
+    "stem": "贴现债的特点是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "发行时折价、到期按面值兑付，期间通常不付息"
+      },
+      {
+        "id": "B",
+        "text": "每月付息一次"
+      },
+      {
+        "id": "C",
+        "text": "票面利率一定高于市场利率"
+      },
+      {
+        "id": "D",
+        "text": "没有到期日"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "零息/贴现债以折价发行，到期按面值偿还。",
+    "difficulty": 2
+  },
+  {
+    "id": "k2-083",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-9.2.a"
+    ],
+    "chapterId": "k2-ch9",
+    "type": "single",
+    "stem": "若某股票β=0，按CAPM其预期收益应等于（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "无风险利率"
+      },
+      {
+        "id": "B",
+        "text": "市场收益率"
+      },
+      {
+        "id": "C",
+        "text": "0"
+      },
+      {
+        "id": "D",
+        "text": "无穷大"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "β=0意味着无系统性风险，预期收益等于Rf。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-084",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-12.2.b"
+    ],
+    "chapterId": "k2-ch12",
+    "type": "single",
+    "stem": "时间加权收益率主要用于（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "衡量投资经理的业绩，消除资金进出影响"
+      },
+      {
+        "id": "B",
+        "text": "计算托管人资本金"
+      },
+      {
+        "id": "C",
+        "text": "确定基金注册资本"
+      },
+      {
+        "id": "D",
+        "text": "计算印花税"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "时间加权反映组合本身表现，不受外部现金流干扰。",
+    "difficulty": 2
+  },
+  {
+    "id": "k2-085",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-13.2.b"
+    ],
+    "chapterId": "k2-ch13",
+    "type": "single",
+    "stem": "未知价原则下，投资者在T日申购，一般按（ ）净值计价。",
+    "options": [
+      {
+        "id": "A",
+        "text": "T日收市后计算的基金份额净值"
+      },
+      {
+        "id": "B",
+        "text": "T-1日净值"
+      },
+      {
+        "id": "C",
+        "text": "T+1日开盘价"
+      },
+      {
+        "id": "D",
+        "text": "面值固定"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "未知价原则以申请当日收市后净值为基准。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-086",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-3.2.a"
+    ],
+    "chapterId": "k2-ch3",
+    "type": "single",
+    "stem": "普通年金终值系数随利率上升而（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "上升"
+      },
+      {
+        "id": "B",
+        "text": "下降"
+      },
+      {
+        "id": "C",
+        "text": "不变"
+      },
+      {
+        "id": "D",
+        "text": "无规律"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "利率越高，同样年金积累的终值越大。",
+    "difficulty": 2
+  },
+  {
+    "id": "k2-087",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-4.2.c"
+    ],
+    "chapterId": "k2-ch4",
+    "type": "single",
+    "stem": "市净率（P/B）等于（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "每股市价/每股净资产"
+      },
+      {
+        "id": "B",
+        "text": "每股净资产/每股市价"
+      },
+      {
+        "id": "C",
+        "text": "市盈率/净资产"
+      },
+      {
+        "id": "D",
+        "text": "总市值/净利润"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "P/B=价格/账面净资产。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-088",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-11.2.c"
+    ],
+    "chapterId": "k2-ch11",
+    "type": "single",
+    "stem": "压力测试主要用于（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "评估极端情景下的风险暴露与承受能力"
+      },
+      {
+        "id": "B",
+        "text": "计算日常管理费"
+      },
+      {
+        "id": "C",
+        "text": "替代信息披露"
+      },
+      {
+        "id": "D",
+        "text": "预测精确到分的净值"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "压力测试考察极端不利情景的影响。",
+    "difficulty": 2
+  },
+  {
+    "id": "k2-089",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-2.2.a"
+    ],
+    "chapterId": "k2-ch2",
+    "type": "single",
+    "stem": "混合型基金的特点是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "同时投资股票与债券等，比例相对灵活"
+      },
+      {
+        "id": "B",
+        "text": "只能投资货币市场工具"
+      },
+      {
+        "id": "C",
+        "text": "必须100%持有股票"
+      },
+      {
+        "id": "D",
+        "text": "不得投资债券"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "混合基金在股债等资产上配置较灵活。",
+    "difficulty": 2
+  },
+  {
+    "id": "k2-090",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-18.1.b"
+    ],
+    "chapterId": "k2-ch18",
+    "type": "single",
+    "stem": "基金销售机构应对基金产品进行（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "风险等级评价"
+      },
+      {
+        "id": "B",
+        "text": "收益保证评级"
+      },
+      {
+        "id": "C",
+        "text": "刚兑能力评级"
+      },
+      {
+        "id": "D",
+        "text": "内幕信息评级"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "应对产品进行风险评价并与投资者匹配。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-091",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-6.4.a"
+    ],
+    "chapterId": "k2-ch6",
+    "type": "single",
+    "stem": "期权的执行价格是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "买卖双方约定的标的资产交割价格"
+      },
+      {
+        "id": "B",
+        "text": "期权费"
+      },
+      {
+        "id": "C",
+        "text": "标的资产市价"
+      },
+      {
+        "id": "D",
+        "text": "保证金比例"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "执行价格（行权价）是期权合约约定的买卖价格。",
+    "difficulty": 2
+  },
+  {
+    "id": "k2-092",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-8.3.a"
+    ],
+    "chapterId": "k2-ch8",
+    "type": "single",
+    "stem": "投资组合再平衡的目的是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "使组合权重回到战略配置目标"
+      },
+      {
+        "id": "B",
+        "text": "增加不必要的交易"
+      },
+      {
+        "id": "C",
+        "text": "取消风险管理"
+      },
+      {
+        "id": "D",
+        "text": "保证短期投机获利"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "再平衡恢复目标资产配置，控制风险漂移。",
+    "difficulty": 2
+  },
+  {
+    "id": "k2-093",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-12.4.a"
+    ],
+    "chapterId": "k2-ch12",
+    "type": "single",
+    "stem": "跟踪误差常用于评价（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "指数基金/被动组合对基准的偏离程度"
+      },
+      {
+        "id": "B",
+        "text": "货币基金的流动性覆盖"
+      },
+      {
+        "id": "C",
+        "text": "债券票息"
+      },
+      {
+        "id": "D",
+        "text": "期权费高低"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "跟踪误差衡量组合收益相对基准的波动偏离。",
+    "difficulty": 2
+  },
+  {
+    "id": "k2-094",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-16.1.a"
+    ],
+    "chapterId": "k2-ch16",
+    "type": "single",
+    "stem": "基金收益分配可采用的方式通常包括（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "现金分红与红利再投资"
+      },
+      {
+        "id": "B",
+        "text": "仅实物分发股票"
+      },
+      {
+        "id": "C",
+        "text": "仅返还申购费"
+      },
+      {
+        "id": "D",
+        "text": "仅提高杠杆"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "常见为现金分红或份额红利再投资。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-095",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-17.3.a"
+    ],
+    "chapterId": "k2-ch17",
+    "type": "single",
+    "stem": "基金季度报告属于（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "定期信息披露"
+      },
+      {
+        "id": "B",
+        "text": "临时内幕消息传播"
+      },
+      {
+        "id": "C",
+        "text": "无需公开的文件"
+      },
+      {
+        "id": "D",
+        "text": "仅向证监会口头汇报"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "季报、年报等属于定期报告。",
+    "difficulty": 2
+  },
+  {
+    "id": "k2-096",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-1.1.a"
+    ],
+    "chapterId": "k2-ch1",
+    "type": "single",
+    "stem": "公司型基金与契约型基金的重要区别在于（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "公司型具有法人资格，契约型通常不具有"
+      },
+      {
+        "id": "B",
+        "text": "契约型一定保证收益"
+      },
+      {
+        "id": "C",
+        "text": "公司型不得投资股票"
+      },
+      {
+        "id": "D",
+        "text": "二者无任何区别"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "公司型基金依公司法设立具有法人资格；契约型依契约设立。",
+    "difficulty": 2
+  },
+  {
+    "id": "k2-097",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-3.2.b"
+    ],
+    "chapterId": "k2-ch3",
+    "type": "single",
+    "stem": "资产负债率=负债总额/资产总额，主要用于衡量（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "长期偿债能力/财务杠杆"
+      },
+      {
+        "id": "B",
+        "text": "存货周转速度"
+      },
+      {
+        "id": "C",
+        "text": "毛利率"
+      },
+      {
+        "id": "D",
+        "text": "每股收益"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "资产负债率反映负债水平和长期偿债压力。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-098",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-5.2.a"
+    ],
+    "chapterId": "k2-ch5",
+    "type": "single",
+    "stem": "票面利率越高（其他条件相同），债券的麦考利久期通常（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "越短"
+      },
+      {
+        "id": "B",
+        "text": "越长"
+      },
+      {
+        "id": "C",
+        "text": "不变"
+      },
+      {
+        "id": "D",
+        "text": "变为零"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "票息越高，现金流回收越快，久期越短。",
+    "difficulty": 2
+  },
+  {
+    "id": "k2-099",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-9.1.b"
+    ],
+    "chapterId": "k2-ch9",
+    "type": "single",
+    "stem": "有效前沿上的组合具有的特点是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "在相同风险下收益最高或相同收益下风险最低"
+      },
+      {
+        "id": "B",
+        "text": "风险无限大"
+      },
+      {
+        "id": "C",
+        "text": "收益一定为负"
+      },
+      {
+        "id": "D",
+        "text": "只包含一种资产"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "有效前沿是均值-方差最优组合的集合。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-100",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-15.1.a"
+    ],
+    "chapterId": "k2-ch15",
+    "type": "single",
+    "stem": "基金估值应坚持的原则是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "公允价值计量等审慎原则"
+      },
+      {
+        "id": "B",
+        "text": "随意估高净值"
+      },
+      {
+        "id": "C",
+        "text": "按管理人意愿调整"
+      },
+      {
+        "id": "D",
+        "text": "长期不估值"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "估值应采用公允价值，保持一致性与审慎性。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-101",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-11.1.a"
+    ],
+    "chapterId": "k2-ch11",
+    "type": "single",
+    "stem": "利率风险对（ ）影响尤为显著。",
+    "options": [
+      {
+        "id": "A",
+        "text": "债券等固定收益资产"
+      },
+      {
+        "id": "B",
+        "text": "库存现金（不考虑通胀）"
+      },
+      {
+        "id": "C",
+        "text": "已到期结算完毕的款项"
+      },
+      {
+        "id": "D",
+        "text": "无任何金融工具"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "利率变动直接影响债券价格。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-102",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-13.2.a"
+    ],
+    "chapterId": "k2-ch13",
+    "type": "single",
+    "stem": "前端收费是指（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "在申购/认购时收取费用"
+      },
+      {
+        "id": "B",
+        "text": "仅在赎回时收费"
+      },
+      {
+        "id": "C",
+        "text": "从不收费"
+      },
+      {
+        "id": "D",
+        "text": "仅向管理人股东收费"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "前端收费在买入时收取；后端收费在赎回时收取。",
+    "difficulty": 2
+  },
+  {
+    "id": "k2-103",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-4.1.b"
+    ],
+    "chapterId": "k2-ch4",
+    "type": "single",
+    "stem": "优先股相对于普通股，通常（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "在利润分配和剩余财产分配上优先"
+      },
+      {
+        "id": "B",
+        "text": "一定具有更大投票权"
+      },
+      {
+        "id": "C",
+        "text": "风险一定更高"
+      },
+      {
+        "id": "D",
+        "text": "不得分红"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "优先股在分配上优先，投票权通常受限。",
+    "difficulty": 2
+  },
+  {
+    "id": "k2-104",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-18.2.b"
+    ],
+    "chapterId": "k2-ch18",
+    "type": "multi",
+    "stem": "基金销售中禁止的行为包括（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "虚假宣传"
+      },
+      {
+        "id": "B",
+        "text": "承诺收益或承担损失"
+      },
+      {
+        "id": "C",
+        "text": "挪用客户交易结算资金"
+      },
+      {
+        "id": "D",
+        "text": "进行风险揭示"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "风险揭示是法定义务；前三项均属禁止行为。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-105",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-7.3.a"
+    ],
+    "chapterId": "k2-ch7",
+    "type": "single",
+    "stem": "大宗商品投资的风险包括（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "价格波动、仓储与流动性等风险"
+      },
+      {
+        "id": "B",
+        "text": "没有任何风险"
+      },
+      {
+        "id": "C",
+        "text": "仅有操作风险"
+      },
+      {
+        "id": "D",
+        "text": "仅有法律风险"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "商品价格波动大，还可能涉及仓储、流动性等问题。",
+    "difficulty": 3
+  },
+  {
+    "id": "k2-106",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-10.3.a"
+    ],
+    "chapterId": "k2-ch10",
+    "type": "single",
+    "stem": "最佳执行（Best Execution）要求（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "综合考虑价格、成本、速度、可能性等因素为客户争取最佳结果"
+      },
+      {
+        "id": "B",
+        "text": "只选择最贵通道"
+      },
+      {
+        "id": "C",
+        "text": "忽视交易成本"
+      },
+      {
+        "id": "D",
+        "text": "优先关联方利益"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "最佳执行强调综合最优，而非单一价格最低。",
+    "difficulty": 2
+  },
+  {
+    "id": "k2-107",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-12.2.d"
+    ],
+    "chapterId": "k2-ch12",
+    "type": "single",
+    "stem": "某组合收益15%，无风险利率3%，标准差12%，夏普比率是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "1.0"
+      },
+      {
+        "id": "B",
+        "text": "1.25"
+      },
+      {
+        "id": "C",
+        "text": "0.25"
+      },
+      {
+        "id": "D",
+        "text": "12"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "夏普=(15%-3%)/12%=1.0。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-108",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-3.3.a"
+    ],
+    "chapterId": "k2-ch3",
+    "type": "single",
+    "stem": "若两资产权重各50%，方差相同且相关系数为1，则组合标准差（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "等于单个资产标准差"
+      },
+      {
+        "id": "B",
+        "text": "等于0"
+      },
+      {
+        "id": "C",
+        "text": "一定小于单个资产标准差"
+      },
+      {
+        "id": "D",
+        "text": "无法计算"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "完全正相关时分散化无效，组合标准差为加权平均。",
+    "difficulty": 2
+  },
+  {
+    "id": "k2-109",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-15.2.a"
+    ],
+    "chapterId": "k2-ch15",
+    "type": "single",
+    "stem": "基金托管费的支付对象是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "基金托管人"
+      },
+      {
+        "id": "B",
+        "text": "基金管理人股东"
+      },
+      {
+        "id": "C",
+        "text": "基金销售人员个人"
+      },
+      {
+        "id": "D",
+        "text": "证券交易所会长"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "托管费支付给基金托管人。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-110",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-9.2.a"
+    ],
+    "chapterId": "k2-ch9",
+    "type": "single",
+    "stem": "市场风险溢价是指（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "E(Rm)-Rf"
+      },
+      {
+        "id": "B",
+        "text": "Rf-E(Rm)"
+      },
+      {
+        "id": "C",
+        "text": "σm"
+      },
+      {
+        "id": "D",
+        "text": "β"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "市场风险溢价=市场预期收益-无风险利率。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-071",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-5.1.e"
+    ],
+    "chapterId": "k1-ch5",
+    "type": "single",
+    "stem": "基金合同期限届满或基金份额持有人大会决定终止等情形出现时，基金应当（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "终止并进入清算程序"
+      },
+      {
+        "id": "B",
+        "text": "自动转为银行存款"
+      },
+      {
+        "id": "C",
+        "text": "强制延期且无需披露"
+      },
+      {
+        "id": "D",
+        "text": "由销售机构接管投资"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "出现法定或约定终止事由应终止并清算。",
+    "difficulty": 2
+  },
+  {
+    "id": "k1-072",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-5.1.d"
+    ],
+    "chapterId": "k1-ch4",
+    "type": "single",
+    "stem": "基金销售结算资金应当（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "独立于销售机构固有财产"
+      },
+      {
+        "id": "B",
+        "text": "与销售机构自有资金混同"
+      },
+      {
+        "id": "C",
+        "text": "可用于销售机构放贷"
+      },
+      {
+        "id": "D",
+        "text": "无需清算交收"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "销售结算资金属于投资者，须封闭运行、独立存管。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-073",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-6.1.c"
+    ],
+    "chapterId": "k1-ch6",
+    "type": "single",
+    "stem": "合规风险是指（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "因未能遵循法律法规和监管要求而遭受制裁或损失的风险"
+      },
+      {
+        "id": "B",
+        "text": "股价上涨的风险"
+      },
+      {
+        "id": "C",
+        "text": "客户盈利的风险"
+      },
+      {
+        "id": "D",
+        "text": "市场指数创新高的风险"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "合规风险来自违法违规导致的法律制裁、监管处罚、声誉损失等。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-074",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-7.3.b"
+    ],
+    "chapterId": "k1-ch7",
+    "type": "single",
+    "stem": "「忠诚尽责」要求从业人员（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "忠实于职责与客户合法利益，勤勉尽责"
+      },
+      {
+        "id": "B",
+        "text": "忠诚于非法利益输送"
+      },
+      {
+        "id": "C",
+        "text": "隐瞒利益冲突"
+      },
+      {
+        "id": "D",
+        "text": "兼职从事与职责严重冲突且未披露的业务"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "应忠实勤勉，妥善处理利益冲突。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-075",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-3.1.a"
+    ],
+    "chapterId": "k1-ch3",
+    "type": "single",
+    "stem": "下列效力排序正确的是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "法律>行政法规>部门规章>自律规则"
+      },
+      {
+        "id": "B",
+        "text": "自律规则>法律"
+      },
+      {
+        "id": "C",
+        "text": "内部制度>法律"
+      },
+      {
+        "id": "D",
+        "text": "部门规章>宪法"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "上位法优于下位法。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-111",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-5.3.b"
+    ],
+    "chapterId": "k2-ch5",
+    "type": "single",
+    "stem": "当市场利率下降时，固定票息债券价格通常（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "上升"
+      },
+      {
+        "id": "B",
+        "text": "下降"
+      },
+      {
+        "id": "C",
+        "text": "不变"
+      },
+      {
+        "id": "D",
+        "text": "归零"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "利率与债券价格反向变动。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-112",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-13.2.a"
+    ],
+    "chapterId": "k2-ch13",
+    "type": "single",
+    "stem": "赎回费收入部分归基金财产，有利于（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "保护长期投资者利益，抑制短期频繁赎回"
+      },
+      {
+        "id": "B",
+        "text": "提高管理人办公费"
+      },
+      {
+        "id": "C",
+        "text": "增加销售误导"
+      },
+      {
+        "id": "D",
+        "text": "取消流动性管理"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "赎回费部分归属基金资产是保护存续持有人的重要安排。",
+    "difficulty": 2
+  },
+  {
+    "id": "k2-113",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-2.2.a"
+    ],
+    "chapterId": "k2-ch2",
+    "type": "single",
+    "stem": "LOF与ETF的共同点是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "都可以在场内交易"
+      },
+      {
+        "id": "B",
+        "text": "申购赎回方式完全相同"
+      },
+      {
+        "id": "C",
+        "text": "都只能投资货币工具"
+      },
+      {
+        "id": "D",
+        "text": "都不是基金"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "二者均可上市交易，但申赎机制等存在差异。",
+    "difficulty": 2
+  },
+  {
+    "id": "k2-114",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-14.3.a"
+    ],
+    "chapterId": "k2-ch14",
+    "type": "single",
+    "stem": "基金参与银行间市场债券交易，需要遵循（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "银行间市场相关交易结算规则"
+      },
+      {
+        "id": "B",
+        "text": "仅期货交易所规则"
+      },
+      {
+        "id": "C",
+        "text": "仅外汇零售柜台规则"
+      },
+      {
+        "id": "D",
+        "text": "无需任何规则"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "银行间债券市场有其准入、交易与结算规范。",
+    "difficulty": 3
+  },
+  {
+    "id": "k2-115",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-12.1.a"
+    ],
+    "chapterId": "k2-ch12",
+    "type": "single",
+    "stem": "年化收益率用于（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "将不同期限收益换算到年维度以便比较"
+      },
+      {
+        "id": "B",
+        "text": "替代风险指标"
+      },
+      {
+        "id": "C",
+        "text": "保证明年收益"
+      },
+      {
+        "id": "D",
+        "text": "计算面值"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "年化便于不同期限业绩横向比较，但不代表未来收益。",
+    "difficulty": 2
+  },
+  {
+    "id": "k2-116",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-8.1.b"
+    ],
+    "chapterId": "k2-ch8",
+    "type": "single",
+    "stem": "投资政策说明书（IPS）通常包含（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "投资目标、约束条件与资产配置指引等"
+      },
+      {
+        "id": "B",
+        "text": "仅今日热点新闻"
+      },
+      {
+        "id": "C",
+        "text": "仅员工餐补标准"
+      },
+      {
+        "id": "D",
+        "text": "内幕消息清单"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "IPS明确目标、风险承受、约束与战略配置等。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-117",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-6.3.a"
+    ],
+    "chapterId": "k2-ch6",
+    "type": "single",
+    "stem": "期货保证金制度的作用是（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "控制杠杆与违约风险"
+      },
+      {
+        "id": "B",
+        "text": "取消盯市"
+      },
+      {
+        "id": "C",
+        "text": "保证盈利"
+      },
+      {
+        "id": "D",
+        "text": "免除交割义务"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "保证金与盯市是期货风险控制的核心机制。",
+    "difficulty": 2
+  },
+  {
+    "id": "k2-118",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-3.4.b"
+    ],
+    "chapterId": "k2-ch3",
+    "type": "single",
+    "stem": "偏度用于描述收益率分布的（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "不对称程度"
+      },
+      {
+        "id": "B",
+        "text": "平均水平"
+      },
+      {
+        "id": "C",
+        "text": "仅方差大小"
+      },
+      {
+        "id": "D",
+        "text": "样本容量"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "偏度刻画分布左右不对称；峰度刻画尾部厚薄。",
+    "difficulty": 3
+  },
+  {
+    "id": "k2-119",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-17.1.b"
+    ],
+    "chapterId": "k2-ch17",
+    "type": "single",
+    "stem": "临时信息披露适用于（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "可能对基金份额持有人权益产生重大影响的事件"
+      },
+      {
+        "id": "B",
+        "text": "所有无关日常琐事"
+      },
+      {
+        "id": "C",
+        "text": "从未发生的事项"
+      },
+      {
+        "id": "D",
+        "text": "仅历史沿革介绍"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "重大关联交易、巨额赎回、暂停申赎等需临时披露。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-120",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-9.5.a"
+    ],
+    "chapterId": "k2-ch9",
+    "type": "single",
+    "stem": "主动投资试图（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "通过选股或择时获取超越基准的收益"
+      },
+      {
+        "id": "B",
+        "text": "完全复制指数不做研究"
+      },
+      {
+        "id": "C",
+        "text": "取消风险管理"
+      },
+      {
+        "id": "D",
+        "text": "只持有现金"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "主动管理追求超额收益（alpha）。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-076",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-2.2.a"
+    ],
+    "chapterId": "k1-ch2",
+    "type": "multi",
+    "stem": "基金运作中的主要环节包括（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "募集与交易"
+      },
+      {
+        "id": "B",
+        "text": "投资管理"
+      },
+      {
+        "id": "C",
+        "text": "托管与登记"
+      },
+      {
+        "id": "D",
+        "text": "自行印钞"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "印钞属于中央银行职能，与基金运作无关。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-077",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-5.3.a"
+    ],
+    "chapterId": "k1-ch5",
+    "type": "single",
+    "stem": "基金管理人运用基金财产，应当（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "恪尽职守，履行诚实信用、谨慎勤勉义务"
+      },
+      {
+        "id": "B",
+        "text": "优先为自己牟利"
+      },
+      {
+        "id": "C",
+        "text": "保证每年盈利"
+      },
+      {
+        "id": "D",
+        "text": "与固有财产混合运作"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "法定勤勉尽责义务；基金财产独立，不得混同。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-078",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-4.1.a"
+    ],
+    "chapterId": "k1-ch4",
+    "type": "single",
+    "stem": "基金管理公司变更持有5%以上股权的股东，应当（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "报经中国证监会批准/按规定履行程序"
+      },
+      {
+        "id": "B",
+        "text": "仅口头通知员工"
+      },
+      {
+        "id": "C",
+        "text": "无需任何程序"
+      },
+      {
+        "id": "D",
+        "text": "只告知关联企业"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "主要股东变更等重大事项须依法履行监管程序。",
+    "difficulty": 2
+  },
+  {
+    "id": "k1-079",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-7.6.a"
+    ],
+    "chapterId": "k1-ch7",
+    "type": "single",
+    "stem": "利益冲突发生时，从业人员应当（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "及时披露并按客户利益优先原则处理"
+      },
+      {
+        "id": "B",
+        "text": "隐瞒冲突继续交易"
+      },
+      {
+        "id": "C",
+        "text": "利用冲突为自己加仓"
+      },
+      {
+        "id": "D",
+        "text": "拒绝一切合规检查"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "应识别、披露并妥善管理利益冲突。",
+    "difficulty": 1
+  },
+  {
+    "id": "k1-080",
+    "subjectId": "kemu1",
+    "pointCodes": [
+      "kemu1-8.3.a"
+    ],
+    "chapterId": "k1-ch8",
+    "type": "single",
+    "stem": "「卖者尽责、买者自负」理念强调（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "销售适当性与风险揭示到位后，投资风险由投资者自担"
+      },
+      {
+        "id": "B",
+        "text": "卖方可以不履行适当性义务"
+      },
+      {
+        "id": "C",
+        "text": "买方无需了解任何风险"
+      },
+      {
+        "id": "D",
+        "text": "亏损一律由管理人赔偿"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "卖者尽责是前提，买者自负是市场约束。",
+    "difficulty": 2
+  },
+  {
+    "id": "k2-121",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-15.1.a",
+      "kemu2-15.2.a"
+    ],
+    "chapterId": "k2-ch15",
+    "type": "single",
+    "stem": "基金份额累计净值通常等于（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "基金份额净值+基金成立后累计单位分红"
+      },
+      {
+        "id": "B",
+        "text": "仅当日净值"
+      },
+      {
+        "id": "C",
+        "text": "面值-管理费"
+      },
+      {
+        "id": "D",
+        "text": "申购费+赎回费"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "累计净值反映分红再投资前的业绩轨迹。",
+    "difficulty": 2
+  },
+  {
+    "id": "k2-122",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-5.2.a"
+    ],
+    "chapterId": "k2-ch5",
+    "type": "single",
+    "stem": "零息债券的麦考利久期等于（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "其到期期限"
+      },
+      {
+        "id": "B",
+        "text": "0"
+      },
+      {
+        "id": "C",
+        "text": "票面利率"
+      },
+      {
+        "id": "D",
+        "text": "凸性"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "零息债只有到期一次现金流，久期等于到期期限。",
+    "difficulty": 1
+  },
+  {
+    "id": "k2-123",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-11.3.b"
+    ],
+    "chapterId": "k2-ch11",
+    "type": "single",
+    "stem": "风险应对策略通常包括（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "规避、降低、转移、接受"
+      },
+      {
+        "id": "B",
+        "text": "仅忽视"
+      },
+      {
+        "id": "C",
+        "text": "仅加大敞口"
+      },
+      {
+        "id": "D",
+        "text": "仅取消估值"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "常见策略：回避、缓释、转移（如对冲/保险）、保留。",
+    "difficulty": 2
+  },
+  {
+    "id": "k2-124",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-4.3.b"
+    ],
+    "chapterId": "k2-ch4",
+    "type": "single",
+    "stem": "技术分析的三大假设不包括（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "市场行为包容消化一切"
+      },
+      {
+        "id": "B",
+        "text": "价格以趋势方式演变"
+      },
+      {
+        "id": "C",
+        "text": "历史会重演"
+      },
+      {
+        "id": "D",
+        "text": "公司财务报表决定一切短期波动"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": "D更接近基本面分析逻辑；前三项是技术分析经典假设。",
+    "difficulty": 2
+  },
+  {
+    "id": "k2-125",
+    "subjectId": "kemu2",
+    "pointCodes": [
+      "kemu2-1.1.b"
+    ],
+    "chapterId": "k2-ch1",
+    "type": "single",
+    "stem": "证券投资基金的特点包括（ ）。",
+    "options": [
+      {
+        "id": "A",
+        "text": "集合理财与专业管理"
+      },
+      {
+        "id": "B",
+        "text": "由投资者承担全部投资风险"
+      },
+      {
+        "id": "C",
+        "text": "收益保底"
+      },
+      {
+        "id": "D",
+        "text": "A和B正确，C错误"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "explanation": "基金集合理财、专业管理，风险由持有人承担，不保底。",
+    "difficulty": 1
+  }
+]
